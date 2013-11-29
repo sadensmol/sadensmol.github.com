@@ -1,0 +1,49 @@
+title:            sadensmol's blog
+description:      Create like a god, command like a king, work like a slave!
+disqus_shortname: shortname
+url:             
+
+# Owner/author information
+owner:
+  name:           Denis Sazonov
+  avatar:         bio-photo.jpg
+  bio:            "Java/AS3/Objective-C programmer"
+  email:          sadensmol@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        sadensmol
+  facebook:       
+  github:         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+
+  - title: Articles
+    url: /articles
+
+  - title: About
+    url: /about
+
+  - title: Odesk profile
+    url: https://www.odesk.com/users/%7E010ba56ab4bc5aba48
+    external: true
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Moscow
+future:      true
+pygments:    true
+markdown:    kramdown
