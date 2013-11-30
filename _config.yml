@@ -1,7 +1,7 @@
 title:            sadensmol's blog
 description:      Create like a god, command like a king, work like a slave!
-disqus_shortname: shortname
-url:             
+disqus_shortname: sadensmol
+url:             #http://sadensmol.me
 
 # Owner/author information
 owner:
@@ -11,8 +11,8 @@ owner:
   email:          sadensmol@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        sadensmol
-  facebook:       
-  github:         
+  facebook:       sadensmol
+  github:         sadensmol
   stackexchange:  
   linkedin:       
   instagram:      
@@ -37,6 +37,9 @@ links:
   - title: About
     url: /about
 
+  - title: Resume
+    url: /resume
+    
   - title: Odesk profile
     url: https://www.odesk.com/users/%7E010ba56ab4bc5aba48
     external: true
