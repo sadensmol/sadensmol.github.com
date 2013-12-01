@@ -90,20 +90,21 @@ Technologies : Java EE,JBoss,JSP,Struts,Postgresql,Hibernate,
 It’s system for automatic document exchange in Web ( ERP).
 Written originally in JAVA (J2EE). Used struts, hibernate.
 
-Functionality:
-* Download electronic documents,
-* Upload electronic documents,
-* Print electronic documents,
-* Save electronic documents in XML format onto hard drive,
-* Setup a notification to email that new document has arrived so user does not need to constantly check web-interface for the new electronic documents,
-* Syncronize commodity codes. Another words to establish correspondence between commodity codes of supplier and retail chain,
-* Syncronize outlets' location codes. Another words to establish correspondence between delivery location codes of supplier and retail chain,
-Web-browser and Internet connection are sufficient prerequisites for this package.
+##### Functionality:
+
+* Download electronic documents
+* Upload electronic documents
+* Print electronic documents
+* Save electronic documents in XML format onto hard drive
+* Setup a notification to email that new document has arrived so user does not need to constantly check web-interface for the new electronic documents
+* Syncronize commodity codes. Another words to establish correspondence between commodity codes of supplier and retail chain
+* Syncronize outlets' location codes. Another words to establish correspondence between delivery location codes of supplier and retail chain
+
 
 
 ### 2012-now Independent Freelance programmer
 
 #### http://www.odesk.com
 
-Check out my Odesk profile [sadensmol's Odesk profile ] (https://www.odesk.com/users/~~d44669c503609b2a)
+Check out my Odesk profile [sadensmol's Odesk profile ](https://www.odesk.com/users/~~d44669c503609b2a)
 
