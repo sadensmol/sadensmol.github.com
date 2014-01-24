@@ -12,7 +12,8 @@ image:
 ---
 
 I'm Denis Sazonov, software developer from Smolensk/Russia. 
-I work fulltime as freelance programmer on [Odesk.com](http://www.odesk.com/).
+I work fulltime as freelance programmer on [Odesk.com](http://www.odesk.com/)
+and [Elance.com](http://www.elance.com/)
 
 ### I know and have experience in programming with the following list of languages:
 
@@ -44,7 +45,8 @@ I can work also by nights. My timezone is MSK ( GMT + 4 ) so for some US clients
 But it's okay because I really love my work!
 
 Please check out my [resume]({{ site.url }}/resume)
-and [Odesk profile](https://www.odesk.com/users/%7E010ba56ab4bc5aba48),
+[Odesk profile](https://www.odesk.com/users/%7E010ba56ab4bc5aba48),
+[Elance profile](https://www.elance.com/s/sadensmol),
 email me: <a href="mailto:sadensmol@gmail.com">sadensmol@gmail.com</a>
 or contact via Skype: <a href="skype:sadensmol?call">sadensmol</a>.
 

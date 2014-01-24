@@ -91,7 +91,6 @@ It’s system for automatic document exchange in Web ( ERP).
 Written originally in JAVA (J2EE). Used struts, hibernate.
 
 ##### Functionality:
-
 * Download electronic documents
 * Upload electronic documents
 * Print electronic documents
