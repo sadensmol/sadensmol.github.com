@@ -2,13 +2,14 @@
 layout: page
 permalink: /about/index.html
 title: About
-tagline: Create like a god, command like a king, work like a slave!
-tags: [about]
-
-image:
-  feature: texture-feature-02.jpg
+tagline: "Create like a god, command like a king, work like a slave!"
+tags: 
+  - about
+image: 
+  feature: "texture-feature-02.jpg"
   credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  creditlink: "http://texturelovers.com"
+published: true
 ---
 
 I'm Denis Sazonov, software developer from Smolensk/Russia. 
@@ -40,7 +41,7 @@ I've all needed equipment to test applications on Windows, Linux, Mac platforms 
 
 I work in my home office. It's quiet, very comfortable and has all needed things for productive work.
 
-My working hours is flexible. Usually I get up at 7 AM and start working on the hardest project ( an hour in the morning is worth two in the evening! ).
+My working hours are flexible. Usually I get up at 7 AM and start working on the hardest project ( an hour in the morning is worth two in the evening! ).
 I can work also by nights. My timezone is MSK ( GMT + 4 ) so for some US clients I have to work by nights.
 But it's okay because I really love my work!
 
@@ -53,5 +54,3 @@ or contact via Skype: <a href="skype:sadensmol?call">sadensmol</a>.
 **Let's create the best software together!**
 
 *Best regards, Denis.*
-
-
