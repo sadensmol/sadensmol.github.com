@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## About choosing projects on Odesk
