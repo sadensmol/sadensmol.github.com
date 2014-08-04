@@ -1,4 +1,10 @@
 ---
+layout: post
+title: "About choosing projects on Odesk"
+description: My thoughts about the best practice to work on Odesk
+category: odesk
+tags: 
+  - odesk
 published: true
 ---
 
