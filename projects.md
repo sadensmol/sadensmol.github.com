@@ -13,9 +13,7 @@ image:
 published: true
 ---
 
-**2013-now**
-
-Projects Im working on for the last year:
+**2014**
 
 - CurationSoft
 ([http://curationsoft.com/](http://curationsoft.com/ "CurationSoft") )
@@ -57,6 +55,15 @@ I did port for this project from IOS platform to Android. Projects used Parse fr
 Used technologies: Objective-C, c++,cocos2d-x, parse, facebook api
 
 
+- Spiritual Health Assessment.
+([http://transformed-p1.cloudapp.net/self/login.do](http://transformed-p1.cloudapp.net/self/login.do "Transform Me") )
+
+![TransformMe]({{ site.url }}/images/projects_sha_screenshot.jpg)
+
+
+I worked as server side programmer ( java, spring, mysql ), also created iOS application for this web based application. It was very huge project but I only added there some additional functionality which was missed from original application.
+
+Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objective-C.
 
 
 
