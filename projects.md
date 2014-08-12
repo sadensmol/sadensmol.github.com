@@ -65,5 +65,11 @@ I worked as server side programmer ( java, spring, mysql ), also created iOS app
 
 Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objective-C.
 
+- Stuff Spy.
 
+![StuffSpy]({{ site.url }}/images/projects_ss_screenshot.jpg)
+
+Application similar to CurationSoft. It took about 1 week to be done.
+
+Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting project.
 
