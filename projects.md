@@ -67,7 +67,7 @@ Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objecti
 
 - Stuff Spy.
 
-![StuffSpy]({{ site.url }}/images/projects_ss_screenshot.jpg)
+![StuffSpy]({{ site.url }}/images/projects_ss_screenshot.png)
 
 Application similar to CurationSoft. It took about 1 week to be done.
 
