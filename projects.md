@@ -23,3 +23,5 @@ Projects Im working on for the last year:
 
 
 It's content curation software which allows users to find content over the internet by using different search sources ( youtube, google, amazon, instagram, twitter etc ) and then compose posts in inbuilt post builder and publish it to any of supported blog platforms. Our customers really love this software.
+
+Used technologies: Adobe Air/Flex, PHP, JS.
