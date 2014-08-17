@@ -9,7 +9,11 @@ image:
 
 Thank you for visiting my blog.
 
-I've just created it but if you're interested in my person please check out [About me page]({{site.url}}/about).
+You can find information about me here :[About me]({{site.url}}/about).
 
-I've plans to add **Projects** section asap to cover my recent project.
+Me resume  :[Resume]({{site.url}}/resume).
+
+My recent projects  :[Projects]({{site.url}}/projects).
+
+Also you can read blog items, not sure Im a good blogger, when when I have some free time I like to push some thoughts here, to my blog.
  
