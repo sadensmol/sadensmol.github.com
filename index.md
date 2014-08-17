@@ -9,11 +9,11 @@ image:
 
 Thank you for visiting my blog.
 
-You can find information about me here :[About me]({{site.url}}/about).
+You can find information about me here : [About me]({{site.url}}/about).
 
-Me resume  :[Resume]({{site.url}}/resume).
+Me resume  : [Resume]({{site.url}}/resume).
 
-My recent projects  :[Projects]({{site.url}}/projects).
+My recent projects  : [Projects]({{site.url}}/projects).
 
-Also you can read blog items, not sure Im a good blogger, when when I have some free time I like to push some thoughts here, to my blog.
+Also you can read blog items. Not sure Im a good blogger, but when I have some free time I like to push some thoughts here, to my blog.
  

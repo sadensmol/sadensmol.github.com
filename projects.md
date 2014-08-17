@@ -73,3 +73,48 @@ Application similar to CurationSoft. It took about 1 week to be done.
 
 Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting project.
 
+**2013**
+
+- Smart Calendar.
+([https://itunes.apple.com/app/id562171056](https://itunes.apple.com/app/id562171056 "Smart Calendar") )
+
+
+![Smart Calendar]({{ site.url }}/images/projects_smartcal_screenshot.png)
+
+iPhone calendar application with big list of features, settings and possibilities. I worked on this project as main programmer for about 6 months.
+Used technologies: Objective-C, google api, i18n.
+
+- Edisoft platform.
+([https://service.ediweb.eu/edi/](https://service.ediweb.eu/edi/ "Edisoft Edi") )
+
+![Edisoft Edi]({{ site.url }}/images/projects_edi_screenshot.png)
+
+It was work for international ( Estonia based ) firm to support and enhance existing product.
+
+Used technologies: Java, j2ee,struts, hibernate, jboss, js,
+
+**2012**
+
+- Cdeals.
+
+![Cdeals]({{ site.url }}/images/projects_cdeals_screenshot.png)
+
+It was a project for UK based bank. I developer list of applications for bank’s support  members - video/text chat application, mobile version of video/chat application app, video converter, multi browser application. It was long work and fun - actually I worked as alone support person at that bank - I managed their servers infrastructure, worked on server side and client side.
+
+
+Used technologies: Adobe Air/Flex,as3, red5 video server, tomcat, hibernate,java , spring, postgresql, sql, js, php.
+
+**2011**
+- Glamble Poker.
+![Glamble Poker]({{ site.url }}/images/projects_glamble_screenshot.png)
+
+Used technologies: Adobe Flex,Flash, as3, smartfox server, java, php.
+
+- Fight club of RagDoll.
+
+![Fight club of RagDoll]({{ site.url }}/images/projects_ragdoll_screenshot.png)
+
+It was really fun game, we developer it together with second programmer from scratch. Then we pushed it to vk social network and watched how ppl fight with each other, how they talk about game in forums, post photos and stuff like that!
+
+Used technologies: Adobe Flex,Flash, as3, netty, box2d, vk api .
+
