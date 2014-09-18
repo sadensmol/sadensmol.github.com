@@ -16,6 +16,9 @@ I'm Denis Sazonov, software developer from Smolensk/Russia.
 I work fulltime as freelance programmer on [Odesk.com](http://www.odesk.com/)
 and [Elance.com](http://www.elance.com/)
 
+I really like game programming. This is what Im living for :).
+I started programming when I was 12 yo. I love minecraft, doom 1,2 and sims 3.
+
 ### I know and have experience in programming with the following list of languages:
 
 * Java ( J2EE, J2SE )
