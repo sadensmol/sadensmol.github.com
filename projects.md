@@ -18,11 +18,14 @@ published: true
 - Hot Damn! Slots
 ([https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots") )
 
+![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
+
+
 Flash/HTML5 based slots. It's available for Facebook, Aol and yahoo platform. Clients for html5 version are available for android and ios platform.
+
 Used technologies: AS3,Flex, JS, Objective-C,Java.
 
 
-![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
 
 - WildFire Webinar
 
