@@ -15,6 +15,18 @@ published: true
 
 **2014**
 
+- WildFire Webinar
+!({{ site.url }}/images/projects_1_1.png)
+!({{ site.url }}/images/projects_1_2.png)
+
+AWS S3 is really powerful platform, powerful system! Just think you can create free account there and upload different kind on information like
+images,videos, text etc... Then you can transcode your videos for example for apple devices and create some video library for ios device. So you can use iOS app for showing the content and this application to update the content! Very handy!
+
+This application was desinged and programmer by myself to have ability to upload any kind of information to Amazon AWS S3. It uses backend API that keeps user credentials and performs authentification, stores AWS keys for accessing. It uses oficcial AWS S3 java api and SWING or JavaFX framework ( this app supports both frameworks ).
+
+
+Used technologies: Java, Swing, JavaFX,AWS S3 API, REST.
+
 - CurationSoft
 ([http://curationsoft.com/](http://curationsoft.com/ "CurationSoft") )
 
@@ -45,7 +57,6 @@ Used technologies: Adobe Air/Flex,as3, java, different ANE extensions, Facebook 
 Working hard at the moment on new features, new functionality. We improve application every day.
 
 - Morally Excused
-
 ![ChristianFilipina]({{ site.url }}/images/projects_me_image.jpg)
 
 It’s simple 3 screens question-answer android game based on Cocos2d-x framework.
@@ -53,7 +64,6 @@ It’s simple 3 screens question-answer android game based on Cocos2d-x framewor
 I did port for this project from IOS platform to Android. Projects used Parse framework for storing game data/stats, so it took about 1 week with 2 hrs/day work to port 3000 lines of code from objective-c to java. I did also some changes in cocos2d-x code and upgraded this framework to new version.
 
 Used technologies: Objective-C, c++,cocos2d-x, parse, facebook api
-
 
 - Spiritual Health Assessment.
 ([http://transformed-p1.cloudapp.net/self/login.do](http://transformed-p1.cloudapp.net/self/login.do "Transform Me") )
@@ -73,11 +83,12 @@ Application similar to CurationSoft. It took about 1 week to be done.
 
 Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting project.
 
+
+
 **2013**
 
 - Smart Calendar.
 ([https://itunes.apple.com/app/id562171056](https://itunes.apple.com/app/id562171056 "Smart Calendar") )
-
 
 ![Smart Calendar]({{ site.url }}/images/projects_smartcal_screenshot.png)
 
@@ -93,16 +104,19 @@ It was work for international ( Estonia based ) firm to support and enhance exis
 
 Used technologies: Java, j2ee,struts, hibernate, jboss, js,
 
+
+
 **2012**
 
 - Cdeals.
-
 ![Cdeals]({{ site.url }}/images/projects_cdeals_screenshot.png)
 
 It was a project for UK based bank. I developer list of applications for bank’s support  members - video/text chat application, mobile version of video/chat application app, video converter, multi browser application. It was long work and fun - actually I worked as alone support person at that bank - I managed their servers infrastructure, worked on server side and client side.
 
 
 Used technologies: Adobe Air/Flex,as3, red5 video server, tomcat, hibernate,java , spring, postgresql, sql, js, php.
+
+
 
 **2011**
 - Glamble Poker.
