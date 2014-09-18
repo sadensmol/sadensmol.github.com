@@ -16,6 +16,7 @@ published: true
 **2014**
 
 - WildFire Webinar
+
 <div>
 ![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
 ![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
