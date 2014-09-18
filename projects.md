@@ -16,8 +16,10 @@ published: true
 **2014**
 
 - WildFire Webinar
-!({{ site.url }}/images/projects_1_1.png)
-!({{ site.url }}/images/projects_1_2.png)
+<div>
+![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
+![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
+</div>
 
 AWS S3 is really powerful platform, powerful system! Just think you can create free account there and upload different kind on information like
 images,videos, text etc... Then you can transcode your videos for example for apple devices and create some video library for ios device. So you can use iOS app for showing the content and this application to update the content! Very handy!
