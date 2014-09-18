@@ -18,6 +18,7 @@ published: true
 - WildFire Webinar
 
 <div>
+	![CurationSoft]({{ site.url }}/images/projects_cs_screenshot.png)
 ![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
 ![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
 </div>
