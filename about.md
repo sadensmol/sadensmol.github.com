@@ -12,28 +12,32 @@ image:
 published: true
 ---
 
+
 I'm Denis Sazonov, software developer from Smolensk/Russia. 
-I work fulltime as freelance programmer on [Odesk.com](http://www.odesk.com/)
-and [Elance.com](http://www.elance.com/)
+I work fulltime as freelance programmer on [upwork.com](http://www.upwork.com/)
+
 
 I really like game programming. This is what Im living for :).
-I started programming when I was 12 yo. I love minecraft, doom 1,2 and sims 3.
+I started programming when I was 12 yo. It was the first i8086,it was basic and some simple CGA games. Then I learned Pascal and started with more serious games and applications.
+I love C++, Java and AS3. I like stong code structure, code dising patterns and productive work.
+I love playing minecraft, doom 1,2 and sims 3.:)
 
-### I know and have experience in programming with the following list of languages:
+### I know and have experience in programming with the following list of languages(technologies):
 
+* C/C++
 * Java ( J2EE, J2SE )
-* ActionScipt3 (Air, Air for mobiles), Flex
-* Objective-C
+* ActionScipt3 
+* Objective-C/Swift
 * SQL, PL/SQL
 
 ### Frameworks, IDEs and technologies I can use in my work:
 
 * Spring, Hibernate,NoSQL ( membase, mongo )
-* Starling, BlazeDS
+* Starling, BlazeDS, Flex, Feathers
 * CoreData, UIKit, Cocos2d, cocos2d-x
 * Box2d
 * Tomcat, JBoss, Red5, Wowza, SmartFox
-* Eclipse, Flash Builder, XCode
+* MSVS,Eclipse, Flash Builder, XCode, Intellij Idea
 * SVN,Git,Mercurial
 
 
@@ -50,7 +54,6 @@ But it's okay because I really love my work!
 
 Please check out my [resume]({{ site.url }}/resume)
 [Odesk profile](https://www.odesk.com/users/%7E010ba56ab4bc5aba48),
-[Elance profile](https://www.elance.com/s/sadensmol),
 email me: <a href="mailto:sadensmol@gmail.com">sadensmol@gmail.com</a>
 or contact via Skype: <a href="skype:sadensmol?call">sadensmol</a>.
 
