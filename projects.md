@@ -20,33 +20,31 @@ published: true
 ###VideoMaker FX
 [Video Maker FX](http://www.videomakerfx.com)
 
-
 ![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
 
 
 ## **2014**
 
 ### Hot Damn! Slots
+
 ([https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots") )
 
 ![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
-
 
 Flash/HTML5 based slots. It's available for Facebook, Aol and yahoo platform. Clients for html5 version are available for android and ios platform.
 
 Used technologies: AS3,Flex, JS, Objective-C,Java.
 
-
 ### WildFire Webinar
 
 ![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
+
 ![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
 
 AWS S3 is really powerful platform, powerful system! Just think you can create free account there and upload different kind on information like
 images,videos, text etc... Then you can transcode your videos for example for apple devices and create some video library for ios device. So you can use iOS app for showing the content and this application to update the content! Very handy!
 
 This application was desinged and programmer by myself to have ability to upload any kind of information to Amazon AWS S3. It uses backend API that keeps user credentials and performs authentification, stores AWS keys for accessing. It uses oficcial AWS S3 java api and SWING or JavaFX framework ( this app supports both frameworks ).
-
 
 Used technologies: Java, Swing, JavaFX,AWS S3 API, REST.
 
@@ -55,7 +53,6 @@ Used technologies: Java, Swing, JavaFX,AWS S3 API, REST.
 ([http://curationsoft.com/](http://curationsoft.com/ "CurationSoft") )
 
 ![CurationSoft]({{ site.url }}/images/projects_cs_screenshot.png)
-
 
 It's content curation software which allows users to find content over the internet by using different search sources ( youtube, google, amazon, instagram, twitter etc ) and then compose posts in inbuilt post builder and publish it to any of supported blog platforms. Our customers really love this software.
 
@@ -97,7 +94,6 @@ Used technologies: Objective-C, c++,cocos2d-x, parse, facebook api
 
 ![TransformMe]({{ site.url }}/images/projects_sha_screenshot.jpg)
 
-
 I worked as server side programmer ( java, spring, mysql ), also created iOS application for this web based application. It was very huge project but I only added there some additional functionality which was missed from original application.
 
 Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objective-C.
@@ -109,8 +105,6 @@ Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objecti
 Application similar to CurationSoft. It took about 1 week to be done.
 
 Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting project.
-
-
 
 ## **2013**
 
@@ -144,7 +138,6 @@ It was a project for UK based bank. I developer list of applications for bank’
 
 
 Used technologies: Adobe Air/Flex,as3, red5 video server, tomcat, hibernate,java , spring, postgresql, sql, js, php.
-
 
 
 ## **2011**
