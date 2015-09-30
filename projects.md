@@ -13,9 +13,15 @@ image:
 published: true
 ---
 
+
+**2015**
+
+
+
+
 **2014**
 
-- Hot Damn! Slots
+## Hot Damn! Slots
 ([https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots") )
 
 ![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
@@ -27,7 +33,7 @@ Used technologies: AS3,Flex, JS, Objective-C,Java.
 
 
 
-- WildFire Webinar
+## WildFire Webinar
 
 ![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
 ![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
@@ -40,7 +46,7 @@ This application was desinged and programmer by myself to have ability to upload
 
 Used technologies: Java, Swing, JavaFX,AWS S3 API, REST.
 
-- CurationSoft
+## CurationSoft
 ([http://curationsoft.com/](http://curationsoft.com/ "CurationSoft") )
 
 ![CurationSoft]({{ site.url }}/images/projects_cs_screenshot.png)
@@ -54,7 +60,7 @@ Used technologies: Adobe Air/Flex, PHP, JS, Facebook api, wordless api, blogger 
 
 Now client is going to create mobile applications based on desktop app code ( on Adobe Air tech ). Im working as support member now, answering support tickets, do some upgrades and fixes.
 
-- Christian Filipina
+## Christian Filipina
 ([https://www.christianfilipina.com/](https://www.christianfilipina.com/ "Christian Filipina") )
 
 ![ChristianFilipina]({{ site.url }}/images/projects_cf_image.jpg)
@@ -69,7 +75,7 @@ Used technologies: Adobe Air/Flex,as3, java, different ANE extensions, Facebook 
 
 Working hard at the moment on new features, new functionality. We improve application every day.
 
-- Morally Excused
+## Morally Excused
 ![ChristianFilipina]({{ site.url }}/images/projects_me_image.jpg)
 
 It’s simple 3 screens question-answer android game based on Cocos2d-x framework.
@@ -78,7 +84,7 @@ I did port for this project from IOS platform to Android. Projects used Parse fr
 
 Used technologies: Objective-C, c++,cocos2d-x, parse, facebook api
 
-- Spiritual Health Assessment.
+## Spiritual Health Assessment.
 ([http://transformed-p1.cloudapp.net/self/login.do](http://transformed-p1.cloudapp.net/self/login.do "Transform Me") )
 
 ![TransformMe]({{ site.url }}/images/projects_sha_screenshot.jpg)
@@ -88,7 +94,7 @@ I worked as server side programmer ( java, spring, mysql ), also created iOS app
 
 Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objective-C.
 
-- Stuff Spy.
+## Stuff Spy.
 
 ![StuffSpy]({{ site.url }}/images/projects_ss_screenshot.png)
 
@@ -100,7 +106,7 @@ Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting
 
 **2013**
 
-- Smart Calendar.
+## Smart Calendar.
 ([https://itunes.apple.com/app/id562171056](https://itunes.apple.com/app/id562171056 "Smart Calendar") )
 
 ![Smart Calendar]({{ site.url }}/images/projects_smartcal_screenshot.png)
@@ -121,7 +127,7 @@ Used technologies: Java, j2ee,struts, hibernate, jboss, js,
 
 **2012**
 
-- Cdeals.
+## Cdeals.
 ![Cdeals]({{ site.url }}/images/projects_cdeals_screenshot.png)
 
 It was a project for UK based bank. I developer list of applications for bank’s support  members - video/text chat application, mobile version of video/chat application app, video converter, multi browser application. It was long work and fun - actually I worked as alone support person at that bank - I managed their servers infrastructure, worked on server side and client side.
@@ -132,16 +138,15 @@ Used technologies: Adobe Air/Flex,as3, red5 video server, tomcat, hibernate,java
 
 
 **2011**
-- Glamble Poker.
+## Glamble Poker.
 ![Glamble Poker]({{ site.url }}/images/projects_glamble_screenshot.png)
 
 Used technologies: Adobe Flex,Flash, as3, smartfox server, java, php.
 
-- Fight club of RagDoll.
+## Fight club of RagDoll.
 
 ![Fight club of RagDoll]({{ site.url }}/images/projects_ragdoll_screenshot.png)
 
 It was really fun game, we developer it together with second programmer from scratch. Then we pushed it to vk social network and watched how ppl fight with each other, how they talk about game in forums, post photos and stuff like that!
 
 Used technologies: Adobe Flex,Flash, as3, netty, box2d, vk api .
-
