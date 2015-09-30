@@ -22,6 +22,14 @@ published: true
 
 ![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
 
+Powerful Video Editor which allows users to create awesome videos from flash slides, sketches ( svg drawings ) and some additional elements, apply effect , add sounds, background videos/animation and then export to mp4 format to upload on any media server/integrate to site. It has a lot of features and many useful functions for people who create ads, make videos, have blogs etc...
+
+I worked as main programmer on start of the project. I reworked the whole project from bad codebase to new one. Initially it had messy code structure, a lot of duplication. So it was an awful project. 
+I moved it to Robotlegs framework, reworked architecture to get it more simple to code, to support to enhance. I implemented new features like sketch drawing, sketch exporting, debug logging, report console, release build with ant and many others.
+
+Later client hired 4 additional developers to increase temp of developing, so I worked as team member.
+
+Used technologies: AS3, Flex, Adobe Air, Ant, Intellij Idea, Git, ffmpeg.
 
 ## **2014**
 
