@@ -14,31 +14,48 @@ published: true
 ---
 
 
-**2015**
-## VideoMaker FX
-[Video Maker FX](http://www.videomakerfx.com)
 
+## **2015**
 
-![Video Maker FX 2.0]({{site.baseurl}}//images/projects_videomakerfx.png)
+###Stak Bots
 
+[http://www.stakbots.com](http://www.stakbots.com)
 
-**2014**
+This project in an active development.
 
-## Hot Damn! Slots
+Using technologies: Adobe Air, Starling, Feathers.
+
+###VideoMaker FX
+
+[http://www.videomakerfx.com](http://www.videomakerfx.com)
+
+![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
+
+Powerful Video Editor which allows users to create awesome videos from flash slides, sketches ( svg drawings ) and some additional elements, apply effect , add sounds, background videos/animation and then export to mp4 format to upload on any media server/integrate to site. It has a lot of features and many useful functions for people who create ads, make videos, have blogs etc...
+
+I worked as main programmer on start of the project. I reworked the whole project from bad codebase to new one. Initially it had messy code structure, a lot of duplication. So it was an awful project. 
+I moved it to Robotlegs framework, reworked architecture to get it more simple to code, to support to enhance. I implemented new features like sketch drawing, sketch exporting, debug logging, report console, release build with ant and many others.
+
+Later client hired 4 additional developers to increase temp of developing, so I worked as team member.
+
+Used technologies: AS3, Flex, Adobe Air, Ant, Intellij Idea, Git, ffmpeg.
+
+## **2014**
+
+### Hot Damn! Slots
+
 ([https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots") )
 
 ![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
-
 
 Flash/HTML5 based slots. It's available for Facebook, Aol and yahoo platform. Clients for html5 version are available for android and ios platform.
 
 Used technologies: AS3,Flex, JS, Objective-C,Java.
 
-
-
-## WildFire Webinar
+### WildFire Webinar
 
 ![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
+
 ![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
 
 AWS S3 is really powerful platform, powerful system! Just think you can create free account there and upload different kind on information like
@@ -46,14 +63,13 @@ images,videos, text etc... Then you can transcode your videos for example for ap
 
 This application was desinged and programmer by myself to have ability to upload any kind of information to Amazon AWS S3. It uses backend API that keeps user credentials and performs authentification, stores AWS keys for accessing. It uses oficcial AWS S3 java api and SWING or JavaFX framework ( this app supports both frameworks ).
 
-
 Used technologies: Java, Swing, JavaFX,AWS S3 API, REST.
 
-## CurationSoft
+###CurationSoft
+
 ([http://curationsoft.com/](http://curationsoft.com/ "CurationSoft") )
 
 ![CurationSoft]({{ site.url }}/images/projects_cs_screenshot.png)
-
 
 It's content curation software which allows users to find content over the internet by using different search sources ( youtube, google, amazon, instagram, twitter etc ) and then compose posts in inbuilt post builder and publish it to any of supported blog platforms. Our customers really love this software.
 
@@ -63,7 +79,8 @@ Used technologies: Adobe Air/Flex, PHP, JS, Facebook api, wordless api, blogger 
 
 Now client is going to create mobile applications based on desktop app code ( on Adobe Air tech ). Im working as support member now, answering support tickets, do some upgrades and fixes.
 
-## Christian Filipina
+###Christian Filipina
+
 ([https://www.christianfilipina.com/](https://www.christianfilipina.com/ "Christian Filipina") )
 
 ![ChristianFilipina]({{ site.url }}/images/projects_cf_image.jpg)
@@ -78,7 +95,8 @@ Used technologies: Adobe Air/Flex,as3, java, different ANE extensions, Facebook 
 
 Working hard at the moment on new features, new functionality. We improve application every day.
 
-## Morally Excused
+### Morally Excused
+
 ![ChristianFilipina]({{ site.url }}/images/projects_me_image.jpg)
 
 It’s simple 3 screens question-answer android game based on Cocos2d-x framework.
@@ -87,17 +105,17 @@ I did port for this project from IOS platform to Android. Projects used Parse fr
 
 Used technologies: Objective-C, c++,cocos2d-x, parse, facebook api
 
-## Spiritual Health Assessment.
+### Spiritual Health Assessment.
+
 ([http://transformed-p1.cloudapp.net/self/login.do](http://transformed-p1.cloudapp.net/self/login.do "Transform Me") )
 
 ![TransformMe]({{ site.url }}/images/projects_sha_screenshot.jpg)
-
 
 I worked as server side programmer ( java, spring, mysql ), also created iOS application for this web based application. It was very huge project but I only added there some additional functionality which was missed from original application.
 
 Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objective-C.
 
-## Stuff Spy.
+### Stuff Spy.
 
 ![StuffSpy]({{ site.url }}/images/projects_ss_screenshot.png)
 
@@ -105,11 +123,10 @@ Application similar to CurationSoft. It took about 1 week to be done.
 
 Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting project.
 
+## **2013**
 
+### Smart Calendar.
 
-**2013**
-
-## Smart Calendar.
 ([https://itunes.apple.com/app/id562171056](https://itunes.apple.com/app/id562171056 "Smart Calendar") )
 
 ![Smart Calendar]({{ site.url }}/images/projects_smartcal_screenshot.png)
@@ -117,7 +134,8 @@ Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting
 iPhone calendar application with big list of features, settings and possibilities. I worked on this project as main programmer for about 6 months.
 Used technologies: Objective-C, google api, i18n.
 
-- Edisoft platform.
+### Edisoft platform.
+
 ([https://service.ediweb.eu/edi/](https://service.ediweb.eu/edi/ "Edisoft Edi") )
 
 ![Edisoft Edi]({{ site.url }}/images/projects_edi_screenshot.png)
@@ -127,10 +145,10 @@ It was work for international ( Estonia based ) firm to support and enhance exis
 Used technologies: Java, j2ee,struts, hibernate, jboss, js,
 
 
+## **2012**
 
-**2012**
+### Cdeals.
 
-## Cdeals.
 ![Cdeals]({{ site.url }}/images/projects_cdeals_screenshot.png)
 
 It was a project for UK based bank. I developer list of applications for bank’s support  members - video/text chat application, mobile version of video/chat application app, video converter, multi browser application. It was long work and fun - actually I worked as alone support person at that bank - I managed their servers infrastructure, worked on server side and client side.
@@ -139,14 +157,16 @@ It was a project for UK based bank. I developer list of applications for bank’
 Used technologies: Adobe Air/Flex,as3, red5 video server, tomcat, hibernate,java , spring, postgresql, sql, js, php.
 
 
+## **2011**
 
-**2011**
-## Glamble Poker.
+### Glamble Poker.
+
 ![Glamble Poker]({{ site.url }}/images/projects_glamble_screenshot.png)
 
 Used technologies: Adobe Flex,Flash, as3, smartfox server, java, php.
 
-## Fight club of RagDoll.
+
+### Fight club of RagDoll.
 
 ![Fight club of RagDoll]({{ site.url }}/images/projects_ragdoll_screenshot.png)
 
