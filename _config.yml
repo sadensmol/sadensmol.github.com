@@ -7,7 +7,7 @@ url:             http://sadensmol.me
 owner:
   name:           Denis Sazonov
   avatar:         bio-photo.jpg
-  bio:            "Java/AS3/Objective-C programmer"
+  bio:            "Desktop/Mobile programmer"
   email:          sadensmol@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        sadensmol
@@ -40,8 +40,8 @@ links:
   - title: Resume
     url: /resume
     
-  - title: Odesk profile
-    url: https://www.odesk.com/users/%7E010ba56ab4bc5aba48
+  - title: Upwork profile
+    url: https://www.upwork.com/users/%7E010ba56ab4bc5aba48
     external: true
 
 
