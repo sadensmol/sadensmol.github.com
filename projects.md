@@ -13,6 +13,38 @@ image:
 published: true
 ---
 
+## **2016**
+
+###Video Catroonizer
+
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_cartoonizer.png)
+
+Application for addin some effects to your video ( cartoonise effects ).
+
+It allows user to merge videos and export into different formats.
+
+I added some additional functionality into this project
+
+
+Technologies/Languages/Frameworks: C#, WPF, Ffmpeg.
+
+###Investigation Video Editor
+
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_1.png)
+
+Large platform to work with different videos files. It supports different formats and codecs.
+User have ability to place videos into folders and sort/change date/time properties for every folder.
+
+
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_2.png)
+
+Application has ability to setup date/time stamp, edit videos and export to any format.
+
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_3.png)
+
+I work in this project as main developer.
+
+Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, Ant, Ffmpeg, Robotlegs.
 
 
 ## **2015**
@@ -22,11 +54,15 @@ published: true
 
 [https://www.heyzap.com](https://www.heyzap.com)
 
+Project is a different AD networks aggregator. You can just download heyzap and setup under your app. There
+are lots of platforms which are supported at the moment. There is a dashboard where you can control your ads and
+earning.
+
 Im working in this project as support programmer. My responsibility is to support 
 all Adobe Native Extensions which are using in the project. And also Heyzap ANE. 
 I support Flex test application as well.
 
-Using technologies: Adobe Air, Java, Objective-C, Ant, Ruby, Python.
+Using technologies: AS3,Java, Objective-C, Ruby, Python, Adobe Air, ANE, Ant.
 
 ###Stak Bots
 
