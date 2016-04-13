@@ -37,6 +37,7 @@ About 1.5 years in iOS programming ( Calendar, Chat, Game apps ). I like using a
 * Video/audio processing ( ffmpeg, xuggler );
 
 ### Known languages:
+* C/C++/C#
 * Java ( J2EE, J2SE );
 * ActionScipt3 (Air, Flash, Flex );
 * Objective-C;
@@ -52,7 +53,7 @@ About 1.5 years in iOS programming ( Calendar, Chat, Game apps ). I like using a
 
 Im a good software architector and a pragmatic developer. I like Agile approach as the simplest way to improve own productivity.
 
-## Work
+## Work/Employment history
 
 ### 2004-2008  -  Arkada Engineering. Programmer ( PLC , Delphi )
 
@@ -105,5 +106,5 @@ Written originally in JAVA (J2EE). Used struts, hibernate.
 
 #### http://www.odesk.com
 
-Check out my Odesk profile [sadensmol's Odesk profile ](https://www.odesk.com/users/~~d44669c503609b2a)
+Check out my Odesk profile [sadensmol's Upwork profile ](https://www.upwork.com/users/~~d44669c503609b2a)
 

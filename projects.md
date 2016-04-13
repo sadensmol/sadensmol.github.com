@@ -15,11 +15,11 @@ published: true
 
 ## **2016**
 
-###Video Catroonizer
+### Video Catroonizer
 
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_cartoonizer.png)
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_video_cartoonizer.png)
 
-Application for addin some effects to your video ( cartoonise effects ).
+Application about adding some effects to your video ( cartoonise effects ).
 
 It allows user to merge videos and export into different formats.
 
@@ -28,10 +28,10 @@ I added some additional functionality into this project
 
 Technologies/Languages/Frameworks: C#, WPF, Ffmpeg.
 
-###Investigation Video Editor
+### Investigation Video Editor
 
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_1.png)
 
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_3.png)
 Large platform to work with different videos files. It supports different formats and codecs.
 User have ability to place videos into folders and sort/change date/time properties for every folder.
 
@@ -40,7 +40,7 @@ User have ability to place videos into folders and sort/change date/time propert
 
 Application has ability to setup date/time stamp, edit videos and export to any format.
 
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_3.png)
+![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_1.png)
 
 I work in this project as main developer.
 
@@ -50,7 +50,7 @@ Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, Ant, Ffmpeg, Robotlegs.
 ## **2015**
 
 
-###Heyzap
+### Heyzap
 
 [https://www.heyzap.com](https://www.heyzap.com)
 
@@ -64,7 +64,9 @@ I support Flex test application as well.
 
 Using technologies: AS3,Java, Objective-C, Ruby, Python, Adobe Air, ANE, Ant.
 
-###Stak Bots
+
+
+### Stak Bots
 
 [http://www.stakbots.com](http://www.stakbots.com)
 

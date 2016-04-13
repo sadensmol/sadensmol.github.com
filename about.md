@@ -12,10 +12,10 @@ image:
 published: true
 ---
 
-
 I'm Denis Sazonov, software developer from Smolensk/Russia. 
 I work fulltime as freelance programmer on [upwork.com](http://www.upwork.com/)
 
+At the moment Im looking for some work related to Games programming/ Virtual Reality / Video editing. 
 
 I really like game programming. This is what Im living for :).
 I started programming when I was 12 yo. It was the first i8086,it was basic and some simple CGA games. Then I learned Pascal and started with more serious games and applications.
@@ -25,8 +25,9 @@ I love playing minecraft, doom 1,2 and sims 3.:)
 ### I know and have experience in programming with the following list of languages(technologies):
 
 * C/C++
+* C# ( WPF )
 * Java ( J2EE, J2SE )
-* ActionScipt3 
+* ActionScipt3 ( Adobe Air, Flex, Starling, Feathers ) 
 * Objective-C/Swift
 * SQL, PL/SQL
 
