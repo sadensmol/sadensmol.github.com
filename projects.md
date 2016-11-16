@@ -17,9 +17,9 @@ published: true
 
 ### Video Catroonizer
 
-![Video Cartoonizer]({{site.baseurl}}/images/project_video_cartoonizer.png)
+    ![Video Cartoonizer]({{site.baseurl}}/images/project_video_cartoonizer.png)
 
-Application for adding cartoon effects to your video ( cartoonize effects ).
+    Application for adding cartoon effects to your video ( cartoonize effects ).
 It allows user to split/merge videos and export into different formats.
 Technologies/Languages/Frameworks: .NET, C#, WPF, Ffmpeg.
 
@@ -27,8 +27,9 @@ Technologies/Languages/Frameworks: .NET, C#, WPF, Ffmpeg.
 ### Investigation Video Editor
 [https://investigationve.com](https://investigationve.com)
 
-![Investigation Video Editor]({{site.baseurl}}/images/project_ive.png)
-Large platform to work with different videos files. It supports different formats and codecs.
+    ![Investigation Video Editor]({{site.baseurl}}/images/project_ive.png)
+
+    Large platform to work with different videos files. It supports different formats and codecs.
 User have ability to place videos into folders and sort/change date/time properties for every folder.
 Application has ability to setup date/time stamp, edit videos and export to any format.
 I worked in this project as main developer.
@@ -38,9 +39,9 @@ Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, C++, Ant, Ffmpeg, Robotl
 
 ### Heyzap
 
-[https://www.heyzap.com](https://www.heyzap.com)
+    [https://www.heyzap.com](https://www.heyzap.com)
 
-Project is a different AD networks aggregator. You can just download heyzap and setup under your app. There
+    Project is a different AD networks aggregator. You can just download heyzap and setup under your app. There
 are lots of platforms which are supported at the moment. There is a dashboard where you can control your ads and
 earning.
 
@@ -58,7 +59,7 @@ Using technologies: AS3,Java, Objective-C, Ruby, Python, Adobe Air, ANE, Ant.
 This project in an active development.
 Using technologies: Adobe Air, Starling, Feathers.
 
-###VideoMaker FX
+### VideoMaker FX
 [http://www.videomakerfx.com](http://www.videomakerfx.com)
 
 ![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
