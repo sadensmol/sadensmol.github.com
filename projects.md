@@ -17,18 +17,23 @@ published: true
 
 ### Video Catroonizer
 
+
 ![Video Cartoonizer]({{site.baseurl}}/images/project_video_cartoonizer.png)
 
-    Application for adding cartoon effects to your video ( cartoonize effects ).
+
+Application for adding cartoon effects to your video ( cartoonize effects ).
 It allows user to split/merge videos and export into different formats.
 Technologies/Languages/Frameworks: .NET, C#, WPF, Ffmpeg.
 
 
 ### Investigation Video Editor
 
+
 [https://investigationve.com](https://investigationve.com)
 
+
 ![Investigation Video Editor]({{site.baseurl}}/images/project_ive.png)
+
 
 Large platform to work with different videos files. It supports different formats and codecs.
 User have ability to place videos into folders and sort/change date/time properties for every folder.
@@ -40,7 +45,9 @@ Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, C++, Ant, Ffmpeg, Robotl
 
 ### Heyzap
 
+
 [https://www.heyzap.com](https://www.heyzap.com)
+
 
 Project is a different AD networks aggregator. You can just download heyzap and setup under your app. There
 are lots of platforms which are supported at the moment. There is a dashboard where you can control your ads and
@@ -53,17 +60,21 @@ I support Flex test application as well.
 Using technologies: AS3,Java, Objective-C, Ruby, Python, Adobe Air, ANE, Ant.
 
 
-
 ### Stak Bots
 
+
 [http://www.stakbots.com](http://www.stakbots.com)
+
 
 This project in an active development.
 Using technologies: Adobe Air, Starling, Feathers.
 
+
 ### VideoMaker FX
 
+
 [http://www.videomakerfx.com](http://www.videomakerfx.com)
+
 
 ![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
 
@@ -75,23 +86,31 @@ Later client hired 4 additional developers to increase temp of developing, so I 
 
 Used technologies: AS3, Flex, Adobe Air, Ant, Intellij Idea, Git, ffmpeg.
 
+
 ## **2014**
+
 
 ### Hot Damn! Slots
 
-([https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots") )
+
+[https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots")
+
 
 ![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
 
-Flash/HTML5 based slots. It's available for Facebook, Aol and yahoo platform. Clients for html5 version are available for android and ios platform.
 
+Flash/HTML5 based slots. It's available for Facebook, Aol and yahoo platform. Clients for html5 version are available for android and ios platform.
 Used technologies: AS3,Flex, JS, Objective-C,Java.
+
 
 ### WildFire Webinar
 
+
 ![WildFire Webinar]({{ site.url }}/images/projects_1_1.png)
 
+
 ![WildFire Webinar]({{ site.url }}/images/projects_1_2.png)
+
 
 AWS S3 is really powerful platform, powerful system! Just think you can create free account there and upload different kind on information like
 images,videos, text etc... Then you can transcode your videos for example for apple devices and create some video library for ios device. So you can use iOS app for showing the content and this application to update the content! Very handy!
@@ -100,25 +119,32 @@ This application was desinged and programmer by myself to have ability to upload
 
 Used technologies: Java, Swing, JavaFX,AWS S3 API, REST.
 
-###CurationSoft
+
+### CurationSoft
+
 
 ([http://curationsoft.com/](http://curationsoft.com/ "CurationSoft") )
 
+
 ![CurationSoft]({{ site.url }}/images/projects_cs_screenshot.png)
 
-It's content curation software which allows users to find content over the internet by using different search sources ( youtube, google, amazon, instagram, twitter etc ) and then compose posts in inbuilt post builder and publish it to any of supported blog platforms. Our customers really love this software.
 
+It's content curation software which allows users to find content over the internet by using different search sources ( youtube, google, amazon, instagram, twitter etc ) and then compose posts in inbuilt post builder and publish it to any of supported blog platforms. Our customers really love this software.
 I work alone as client side programmer added all functionality application has at the moment.
 
 Used technologies: Adobe Air/Flex, PHP, JS, Facebook api, wordless api, blogger api, google search api, twitter api, instagram api …
 
 Now client is going to create mobile applications based on desktop app code ( on Adobe Air tech ). Im working as support member now, answering support tickets, do some upgrades and fixes.
 
-###Christian Filipina
+
+### Christian Filipina
+
 
 ([https://www.christianfilipina.com/](https://www.christianfilipina.com/ "Christian Filipina") )
 
+
 ![ChristianFilipina]({{ site.url }}/images/projects_cf_image.jpg)
+
 
 It’s the best dating site/application I’ve ever seen. Too many girls from Philippines are looking for their men.
 They all are Christian.
@@ -130,9 +156,12 @@ Used technologies: Adobe Air/Flex,as3, java, different ANE extensions, Facebook 
 
 Working hard at the moment on new features, new functionality. We improve application every day.
 
+
 ### Morally Excused
 
+
 ![ChristianFilipina]({{ site.url }}/images/projects_me_image.jpg)
+
 
 It’s simple 3 screens question-answer android game based on Cocos2d-x framework.
 
@@ -140,17 +169,23 @@ I did port for this project from IOS platform to Android. Projects used Parse fr
 
 Used technologies: Objective-C, c++,cocos2d-x, parse, facebook api
 
+
 ### Spiritual Health Assessment.
+
 
 ([http://transformed-p1.cloudapp.net/self/login.do](http://transformed-p1.cloudapp.net/self/login.do "Transform Me") )
 
+
 ![TransformMe]({{ site.url }}/images/projects_sha_screenshot.jpg)
+
 
 I worked as server side programmer ( java, spring, mysql ), also created iOS application for this web based application. It was very huge project but I only added there some additional functionality which was missed from original application.
 
 Used technologies: java, spring, mysql, tomcat, twitter bootstrap, query,Objective-C.
 
+
 ### Stuff Spy.
+
 
 ![StuffSpy]({{ site.url }}/images/projects_ss_screenshot.png)
 
@@ -158,20 +193,28 @@ Application similar to CurationSoft. It took about 1 week to be done.
 
 Used technologies: Adobe Air/Flex,as3, ebay api, amazon api, importing/exporting project.
 
+
 ## **2013**
+
 
 ### Smart Calendar.
 
+
 ([https://itunes.apple.com/app/id562171056](https://itunes.apple.com/app/id562171056 "Smart Calendar") )
 
+
 ![Smart Calendar]({{ site.url }}/images/projects_smartcal_screenshot.png)
+
 
 iPhone calendar application with big list of features, settings and possibilities. I worked on this project as main programmer for about 6 months.
 Used technologies: Objective-C, google api, i18n.
 
+
 ### Edisoft platform.
 
+
 ([https://service.ediweb.eu/edi/](https://service.ediweb.eu/edi/ "Edisoft Edi") )
+
 
 ![Edisoft Edi]({{ site.url }}/images/projects_edi_screenshot.png)
 
