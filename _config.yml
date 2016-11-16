@@ -1,4 +1,4 @@
-title:            sadensmol's blog
+title:            About me : Denis Sazonov
 description:      Create like a god, command like a king, work like a slave!
 disqus_shortname: sadensmol
 url:             http://sadensmol.me
@@ -7,7 +7,7 @@ url:             http://sadensmol.me
 owner:
   name:           Denis Sazonov
   avatar:         bio-photo.jpg
-  bio:            "Desktop/Mobile programmer"
+  bio:            "Experienced Programmer"
   email:          sadensmol@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        sadensmol
@@ -17,7 +17,8 @@ owner:
   linkedin:       
   instagram:      
   flickr:         
-  tumblr:         
+  tumblr:
+  skype:          sadensmol
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 

@@ -17,38 +17,24 @@ published: true
 
 ### Video Catroonizer
 
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_video_cartoonizer.png)
+![Video Cartoonizer]({{site.baseurl}}/images/project_video_cartoonizer.png)
 
-Application about adding some effects to your video ( cartoonise effects ).
+Application for adding cartoon effects to your video ( cartoonize effects ).
+It allows user to split/merge videos and export into different formats.
+Technologies/Languages/Frameworks: .NET, C#, WPF, Ffmpeg.
 
-It allows user to merge videos and export into different formats.
-
-I added some additional functionality into this project
-
-
-Technologies/Languages/Frameworks: C#, WPF, Ffmpeg.
 
 ### Investigation Video Editor
+[https://investigationve.com](https://investigationve.com)
 
-
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_3.png)
+![Investigation Video Editor]({{site.baseurl}}/images/project_ive.png)
 Large platform to work with different videos files. It supports different formats and codecs.
 User have ability to place videos into folders and sort/change date/time properties for every folder.
-
-
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_2.png)
-
 Application has ability to setup date/time stamp, edit videos and export to any format.
-
-![Video Maker FX 2.0]({{site.baseurl}}/images/project_ive_1.png)
-
-I work in this project as main developer.
-
-Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, Ant, Ffmpeg, Robotlegs.
-
+I worked in this project as main developer.
+Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, C++, Ant, Ffmpeg, Robotlegs.
 
 ## **2015**
-
 
 ### Heyzap
 
@@ -67,21 +53,17 @@ Using technologies: AS3,Java, Objective-C, Ruby, Python, Adobe Air, ANE, Ant.
 
 
 ### Stak Bots
-
 [http://www.stakbots.com](http://www.stakbots.com)
 
 This project in an active development.
-
 Using technologies: Adobe Air, Starling, Feathers.
 
 ###VideoMaker FX
-
 [http://www.videomakerfx.com](http://www.videomakerfx.com)
 
 ![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
 
 Powerful Video Editor which allows users to create awesome videos from flash slides, sketches ( svg drawings ) and some additional elements, apply effect , add sounds, background videos/animation and then export to mp4 format to upload on any media server/integrate to site. It has a lot of features and many useful functions for people who create ads, make videos, have blogs etc...
-
 I worked as main programmer on start of the project. I reworked the whole project from bad codebase to new one. Initially it had messy code structure, a lot of duplication. So it was an awful project. 
 I moved it to Robotlegs framework, reworked architecture to get it more simple to code, to support to enhance. I implemented new features like sketch drawing, sketch exporting, debug logging, report console, release build with ant and many others.
 
