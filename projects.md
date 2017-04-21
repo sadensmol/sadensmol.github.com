@@ -13,6 +13,40 @@ image:
 published: true
 ---
 
+## **2017**
+
+### Tarrasque Games Turn Based Card Game
+
+![HoE]({{site.baseurl}}/images/projects_2017-hoe.png)   
+
+Turn Based Card game. I worked as junior/support programmer and was responsible for
+ different in game view along with server integration. There were about 4 programmers including UI
+  programmers, effect programmers. We used custom UI framework created by lead developer
+  and later migrated to UGUI.    
+
+Technologies/Languages/Frameworks: Unity 3D, Playfab, C#, Mono.
+
+### MMORPG Project
+
+I worked for some time for big MMORPG project. Initially I went through all available technologies
+ and created a plan and architecture for the project with detailed explanation of every aspect of
+ game development ( project road map ). It was a project with multiple developers ( about 10 ).
+ Unity team work, Discord collaboratoin
+ 
+
+Technologies/Languages/Frameworks: Unity 3D, UNet, MongoDB, C#, Mono.
+
+### PasteSubmit
+http://pastesubm.it](http://pastesubm.it)
+
+![Pastesubmit]({{site.baseurl}}/images/projects_2017-pastesubmit.png)   
+
+SEO targeting application. Allows users to create different unique article, includes link generator, indexer,
+content machine API integration, PasteSubmit integration.
+
+
+Technologies/Languages/Frameworks: Adobe Air, AS3, Instant Link Indexer, Kontent Machine 
+
 ## **2016**
 
 ### Video Catroonizer
