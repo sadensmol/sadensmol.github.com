@@ -17,9 +17,9 @@ published: true
 
 This year is full of load. I have about 5 projects: IVE support work, new project SUB, support work
 for mobile dating application ( Christian Filipina ), 2 Unity projects, new Video Editing projects
- for Ad Creation.
+ for Ad Creation.    
  This year I take more work for Fixed Price - simple SEO startups, adobe air related things - application signing,
- packaging for mobile/desktop etc...
+ packaging for mobile/desktop etc...    
  I started working on Unity projectы last year and improve my knowleges day by day with HP and FP projects.
  Still looking forward to get some project for VR/AR development.
   
