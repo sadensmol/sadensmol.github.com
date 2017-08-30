@@ -18,10 +18,39 @@ published: true
 This year is full of load. I have about 5 projects: IVE support work, new project SUB, support work
 for mobile dating application ( Christian Filipina ), 2 Unity projects, new Video Editing projects
  for Ad Creation.    
- This year I take more work for Fixed Price - simple SEO startups, adobe air related things - application signing,
+ This year I take more work for Fixed Price - simple SEO startups, Adobe Air related things - application signing,
  packaging for mobile/desktop etc...    
- I started working on Unity projectы last year and improve my knowleges day by day with HP and FP projects.
+ I started working on Unity projects last year and improve my knowleges day by day with HP and FP projects.
  Still looking forward to get some project for VR/AR development.
+ 
+ Also I started learning web projects. Do some desktop - web apps conversions (  Wordpress based web apps ) with React.js and Redux. 
+
+### Video Niche Dominator
+  
+![VND]({{site.baseurl}}/images/projects_vnd.png)
+  
+    Desktop and web application ( Wordpress plugin ) for SEO. 
+  
+  Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API, React.js, Redux, JavaScript, Wordpress.
+
+### Loop Vidio
+  
+![LoopVidio]({{site.baseurl}}/images/projects_loopvidio.png)
+  
+    SEO tool for youtube  - find video and index it! 
+  
+  Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API.
+
+
+### Gram Authority 
+  
+![GramAuthority]({{site.baseurl}}/images/projects_ga.png)
+  
+  Application to get statistic information about different Instagram accounts. You can put as many
+  Instagram  accounts as you want and just get info.
+  
+  
+  Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, Instagram API.
   
 
 ### Tarrasque Games Turn Based Card Game
