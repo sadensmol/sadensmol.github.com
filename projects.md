@@ -29,28 +29,29 @@ for mobile dating application ( Christian Filipina ), 2 Unity projects, new Vide
   
 ![VND]({{site.baseurl}}/images/projects_vnd.png)
   
-    Desktop and web application ( Wordpress plugin ) for SEO. 
+
+Desktop and web application ( Wordpress plugin ) for SEO. 
   
-  Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API, React.js, Redux, JavaScript, Wordpress.
+Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API, React.js, Redux, JavaScript, Wordpress.
 
 ### Loop Vidio
   
 ![LoopVidio]({{site.baseurl}}/images/projects_loopvidio.png)
   
-    SEO tool for youtube  - find video and index it! 
+SEO tool for youtube  - find video and index it! 
   
-  Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API.
+Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API.
 
 
 ### Gram Authority 
   
 ![GramAuthority]({{site.baseurl}}/images/projects_ga.png)
   
-  Application to get statistic information about different Instagram accounts. You can put as many
-  Instagram  accounts as you want and just get info.
+Application to get statistic information about different Instagram accounts. You can put as many
+Instagram  accounts as you want and just get info.
   
   
-  Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, Instagram API.
+Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, Instagram API.
   
 
 ### Tarrasque Games Turn Based Card Game

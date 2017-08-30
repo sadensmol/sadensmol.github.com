@@ -13,9 +13,9 @@ published: true
 ---
 
 I'm Denis Sazonov, software developer from Smolensk/Russia. 
-I work fulltime as freelance programmer on [upwork.com](http://www.upwork.com/)
+I work full time as freelance programmer on [upwork.com](http://www.upwork.com/)
 
-At the moment Im looking for some work related to Games programming/ Virtual Reality / Video editing. 
+At the moment Im looking for work related to Games programming (VR, AR including)/ Web Development (react.js, angular, vue.js, django, java, python) / Video editing applications (ffmpeg). 
 
 I really like game programming. This is what Im living for :).
 I started programming when I was 12 yo. It was the first i8086,it was basic and some simple CGA games. Then I learned Pascal and started with more serious games and applications.
@@ -26,15 +26,17 @@ I love playing minecraft, doom 1,2 and sims 3.:)
 
 * C/C++
 * C# ( WPF )
-* Java ( J2EE, J2SE )
+* Java ( J2EE, J2SE ), Groovy
 * ActionScipt3 ( Adobe Air, Flex, Starling, Feathers ) 
 * Objective-C/Swift
+* JavaScript, Python
 * SQL, PL/SQL
 
 ### Frameworks, IDEs and technologies I can use in my work:
 
 * Spring, Hibernate,NoSQL ( membase, mongo )
 * Starling, BlazeDS, Flex, Feathers
+* React.js, Vue.js, Angular.js, django
 * CoreData, UIKit, Cocos2d, cocos2d-x
 * Box2d
 * Tomcat, JBoss, Red5, Wowza, SmartFox
@@ -42,7 +44,7 @@ I love playing minecraft, doom 1,2 and sims 3.:)
 * SVN,Git,Mercurial
 
 
-I've all needed equipment to test applications on Windows, Linux, Mac platforms as well as on Android or iPad devices.
+I've all needed equipment to test applications on Windows, Linux, Mac platforms as well as on Android or iOS devices.
 
 ![My home office]({{ site.url }}/images/my_home_office.jpg)
 {: .image-pull-right}
