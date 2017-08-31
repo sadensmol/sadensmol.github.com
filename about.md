@@ -15,7 +15,8 @@ published: true
 I'm Denis Sazonov, software developer from Smolensk/Russia. 
 I work full time as freelance programmer on [upwork.com](http://www.upwork.com/)
 
-At the moment Im looking for work related to Games programming (VR, AR including)/ Web Development (react.js, angular, vue.js, django, java, python) / Video editing applications (ffmpeg). 
+At the moment Im looking for work related to Games programming (VR, AR including)/ Web Development (react.js, angular, vue.js, django, java, python) and any kind of mobile/desktop application 
+like. 
 
 I really like game programming. This is what Im living for :).
 I started programming when I was 12 yo. It was the first i8086,it was basic and some simple CGA games. Then I learned Pascal and started with more serious games and applications.
