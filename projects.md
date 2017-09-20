@@ -29,10 +29,14 @@ for mobile dating application ( Christian Filipina ), 2 Unity projects, new Vide
 
 It's a web version of Video Niche Dominator create with React.js to use as SaaS. Packed with webpack to use as Wordpress plugin.
  
-Technologies/Languages/Frameworks: JavaScript, WebPack, Html, CSS, React.js, Wordpress.
-
 ![VND Web1]({{site.baseurl}}/images/projects_vnd_web1.png)
+
+It allows the same functionality as desktop version - create unique Youyube video links, copy them and put into inbuilt indexer.
+
 ![VND Web2]({{site.baseurl}}/images/projects_vnd_web2.png)
+
+
+Technologies/Languages/Frameworks: JavaScript, WebPack, Html, CSS, React.js, Wordpress.
 
 
 ### Video Niche Dominator
