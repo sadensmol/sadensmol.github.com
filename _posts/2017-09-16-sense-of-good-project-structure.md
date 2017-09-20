@@ -23,7 +23,7 @@ simple use cases - MVC on client side, DAO on backend, Service layer, 3-4 most u
  
  It's interesting but .Net took MVVM pattern to development as the default pattern for WPF UI development.
  
- Last 2 or 3 years I was working on big multiplatform desktop applications, so can provide you some best practices I learned during the development.
+ Last 2 or 3 years I was working on big multi platform desktop applications, so can provide you some best practices I learned during the development.
  
  All project divide into 5 packages:
  - controller
@@ -83,12 +83,13 @@ Code is easy to write, good decomposition, small command which contain all appli
 And Im actually was very happy with thaT!!!
 
 
+
 Unity. What to say about Unity... When you write code for Unity project you use mostly composition patterns instad of Inheritance. 
 Very powerful patter and good fit for a Unity architecture. I spent 1 year working on different Unity projects. So same patters as before...
  Nothing new, nothing complicated... If you know how to program you just... program.....
  
  
-Now Im starting with frontend... It blowing my mind... But actually I do the same things as before - think about better project structure, 
+Now Im starting with frontend... It's blowing my mind... But actually I do the same things as before - think about better project structure, 
 think about frameworks I could use in the application and then just put everything together and make a connections between components, 
 write code and make everything working... Working good, working fast and look well....
 

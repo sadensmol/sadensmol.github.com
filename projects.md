@@ -25,6 +25,16 @@ for mobile dating application ( Christian Filipina ), 2 Unity projects, new Vide
  
  Also I started learning web projects. Do some desktop - web apps conversions (  Wordpress based web apps ) with React.js and Redux. 
 
+### Video Niche Dominator Wordpress Plugin
+
+It's a web version of Video Niche Dominator create with React.js to use as SaaS. Packed with webpack to use as Wordpress plugin.
+ 
+Technologies/Languages/Frameworks: JavaScript, WebPack, Html, CSS, React.js, Wordpress.
+
+![VND Web1]({{site.baseurl}}/images/projects_vnd_web1.png)
+![VND Web2]({{site.baseurl}}/images/projects_vnd_web2.png)
+
+
 ### Video Niche Dominator
   
 ![VND]({{site.baseurl}}/images/projects_vnd.png)
