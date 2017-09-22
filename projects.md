@@ -28,25 +28,27 @@ for mobile dating application ( Christian Filipina ), 2 Unity projects, new Vide
 ### Video Niche Dominator Wordpress Plugin
 
 It's a web version of Video Niche Dominator create with React.js to use as SaaS. Packed with webpack to use as Wordpress plugin.
+
  
 ![VND Web1]({{site.baseurl}}/images/projects_vnd_web1.png)
 
-It allows the same functionality as desktop version - create unique Youyube video links, copy them and put into inbuilt indexer.
+   
+   It provides the same functionality as desktop version - create unique Youtube video links, copy them and put into inbuilt indexer.
+
 
 ![VND Web2]({{site.baseurl}}/images/projects_vnd_web2.png)
 
 
-Technologies/Languages/Frameworks: JavaScript, WebPack, Html, CSS, React.js, Wordpress.
+   Technologies/Languages/Frameworks: JavaScript, WebPack, Html, CSS, React.js, Wordpress.
 
 
 ### Video Niche Dominator
   
 ![VND]({{site.baseurl}}/images/projects_vnd.png)
+   
+   Desktop and web application ( Wordpress plugin ) for SEO. 
   
-
-Desktop and web application ( Wordpress plugin ) for SEO. 
-  
-Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API, React.js, Redux, JavaScript, Wordpress.
+   Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API, React.js, Redux, JavaScript, Wordpress.
 
 ### Loop Vidio
   
