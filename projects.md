@@ -15,13 +15,17 @@ published: true
 
 ## **2018, 2019**
 
+Looking for the new job opportunity!
+
 Fulltime work as Java Developer for Tangelo Games.
+
 
 New project for Klever Thoughts. And we finally shipped Surveillance to USB project!
 
-![Surveiilance to USB](https://www.surveillancetousb.com/)
+[Surveiilance to USB](https://www.surveillancetousb.com/)
 
-![Klever Thoughts Youtube](https://www.youtube.com/channel/UC6EEELHnVT91J3F342lUmHA)
+[Klever Thoughts Youtube](https://www.youtube.com/channel/UC6EEELHnVT91J3F342lUmHA)
+
 
 
 ## **2017**
