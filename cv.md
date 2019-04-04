@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resume/index.html
+permalink: /cv/index.html
 title: CV
 tagline: Create like a god, command like a king, work like a slave!
 tags: [cv]

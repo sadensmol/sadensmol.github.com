@@ -56,7 +56,7 @@ My working hours are flexible. Usually I get up at 7 AM and start working on the
 I can work also by nights. My timezone is MSK ( GMT + 4 ) so for some US clients I have to work by nights.
 But it's okay because I really love my work!
 
-Please check out my [resume]({{ site.url }}/resume)
+Please check out my [cv]({{ site.url }}/cv)
 [Upwork profile](https://www.upwork.com/users/%7E010ba56ab4bc5aba48),
 email me: <a href="mailto:sadensmol@gmail.com">sadensmol@gmail.com</a>
 or contact via Skype: <a href="skype:sadensmol?call">sadensmol</a>.
