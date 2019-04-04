@@ -13,7 +13,7 @@ Thank you for visiting my blog. It's static site based on Github and powered by 
 
 You can find information about me here : [About me]({{site.url}}/about).
 
-Me resume  : [Resume]({{site.url}}/resume).
+Me resume  : [CV]({{site.url}}/cv).
 
 My recent projects  : [Projects]({{site.url}}/projects).
 
