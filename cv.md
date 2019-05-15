@@ -48,6 +48,9 @@ Self dedicated, good problem solver, fit to deadlines and productive person.
 
 Check out my Odesk profile [sadensmol's Upwork profile ](https://www.upwork.com/users/~~d44669c503609b2a)
 
+My Fiverr profile [sadensmol's Fiverr profile] (https://fiverr.com/sadensmol)
+
+
 ### 2011-2012 Edisoft. JavaEE programmer.
 
 #### https://service.ediweb.eu/edi/

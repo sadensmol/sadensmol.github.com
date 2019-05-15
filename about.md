@@ -58,6 +58,9 @@ But it's okay because I really love my work!
 
 Please check out my [cv]({{ site.url }}/cv)
 [Upwork profile](https://www.upwork.com/users/%7E010ba56ab4bc5aba48),
+
+[Fiverr profile] (https://fiverr.com/sadensmol),
+
 email me: <a href="mailto:sadensmol@gmail.com">sadensmol@gmail.com</a>
 or contact via Skype: <a href="skype:sadensmol?call">sadensmol</a>.
 

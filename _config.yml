@@ -19,6 +19,8 @@ owner:
   flickr:         
   tumblr:
   skype:          sadensmol
+  fiverr:         sadensmol
+  upwork:         sadensmol
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -45,6 +47,9 @@ links:
     url: https://www.upwork.com/users/%7E010ba56ab4bc5aba48
     external: true
 
+  - title: Fiverr profile
+    url: https://www.fiverr.com/sadensmol
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Moscow
