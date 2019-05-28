@@ -15,12 +15,19 @@ published: true
 
 ## **2018, 2019**
 
-Looking for the new job opportunity!
+**Looking for the new job opportunity mostly related to Games Development!**
 
-Fulltime work as Java Developer for Tangelo Games.
+2 years I was working as Fulltime Java Developer for Tangelo Games.
+
+[Best Casino](https://apps.facebook.com/best_casino/)
+
+![Best Casino Web]({{site.baseurl}}/images/bc_web.png)
+
+Technologies/Languages/Frameworks: Java, MySql, SmartFox Server, Flash As3, React.JS, Unity 3D.
 
 
-New project for Klever Thoughts. And we finally shipped Surveillance to USB project!
+New project for Klever Thoughts. 
+And we finally shipped Surveillance to USB project!
 
 [Surveiilance to USB](https://www.surveillancetousb.com/)
 
