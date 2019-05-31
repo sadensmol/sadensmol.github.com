@@ -14,7 +14,7 @@ owner:
   facebook:       sadensmol
   github:         sadensmol
   stackexchange:  
-  linkedin:       
+  linkedin:       sadensmol
   instagram:      
   flickr:         
   tumblr:
@@ -49,6 +49,10 @@ links:
 
   - title: Fiverr profile
     url: https://www.fiverr.com/sadensmol
+    external: true
+
+    - title: LinkedIn profile
+    url: https://www.linkedin.com/in/sadensmol
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
