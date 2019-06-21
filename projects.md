@@ -46,12 +46,16 @@ This year is full of load. I have about 5 projects: IVE support work, new projec
 for mobile dating application ( Christian Filipina ), 2 Unity projects, new Video Editing projects
  for Ad Creation.    
  
+  
    [Investigation Video Editor](https://www.investigationve.com/)
  
    ![Investigation Video Editor]({{site.baseurl}}/images/ive1.png)
     
+ 
+   Technologies : FFMPEG, Exiftool, Adobe Air, AS3, Adobe Flex, C libraries
+ 
     
- This year I take more work for Fixed Price - simple SEO startups, Adobe Air related things - application signing,
+   This year I take more work for Fixed Price - simple SEO startups, Adobe Air related things - application signing,
  packaging for mobile/desktop etc...    
  I started working on Unity projects last year and improve my knowleges day by day with HP and FP projects.
  Still looking forward to get some project for VR/AR development.
