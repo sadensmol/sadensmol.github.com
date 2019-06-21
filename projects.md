@@ -18,7 +18,7 @@ published: true
 **Looking for the new job opportunity mostly related to Games Development!**
 
 
-   2 years I was working as Fulltime Java Developer for Tangelo Games.
+   2 years I was working as Fulltime Java Developer/React.js/Unity/C# for Tangelo Games.
 
 
    [Best Casino](https://apps.facebook.com/best_casino/)
@@ -26,12 +26,13 @@ published: true
    ![Best Casino Web]({{site.baseurl}}/images/bc_web.png)
 
 
-   Technologies/Languages/Frameworks: Java, MySql, SmartFox Server, Flash As3, React.JS, Unity 3D.
+   Technologies/Languages/Frameworks: Java, MySql, SmartFox Server, Flash As3, React.JS, Unity 3D, C#.
 
 
 
    New project for Klever Thoughts. 
-And we finally shipped Surveillance to USB project!
+   
+   And we finally shipped Surveillance to USB project!
 
 [Surveiilance to USB](https://www.surveillancetousb.com/)
 
@@ -44,6 +45,12 @@ And we finally shipped Surveillance to USB project!
 This year is full of load. I have about 5 projects: IVE support work, new project SUB, support work
 for mobile dating application ( Christian Filipina ), 2 Unity projects, new Video Editing projects
  for Ad Creation.    
+ 
+   [Investigation Video Editor](https://www.investigationve.com/)
+ 
+   ![Investigation Video Editor]({{site.baseurl}}/images/ive1.png)
+    
+    
  This year I take more work for Fixed Price - simple SEO startups, Adobe Air related things - application signing,
  packaging for mobile/desktop etc...    
  I started working on Unity projects last year and improve my knowleges day by day with HP and FP projects.
