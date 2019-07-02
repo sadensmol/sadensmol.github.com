@@ -25,96 +25,106 @@ published: true
 
    ![Best Casino Web]({{site.baseurl}}/images/bc_web.png)
 
+&nbsp;
 
    Technologies/Languages/Frameworks: Java, MySql, SmartFox Server, Flash As3, React.JS, Unity 3D, C#.
 
-
+&nbsp;
 
    New project for Klever Thoughts. 
    
    And we finally shipped Surveillance to USB project!
 
-[Surveiilance to USB](https://www.surveillancetousb.com/)
+   [Surveiilance to USB](https://www.surveillancetousb.com/)
 
-[Klever Thoughts Youtube](https://www.youtube.com/channel/UC6EEELHnVT91J3F342lUmHA)
+   [Klever Thoughts Youtube](https://www.youtube.com/channel/UC6EEELHnVT91J3F342lUmHA)
 
 
 
 ## **2017**
 
-This year is full of load. I have about 5 projects: IVE support work, new project SUB, support work
+   This year is full of load. I have about 5 projects: IVE support work, new project SUB, support work
 for mobile dating application ( Christian Filipina ), 2 Unity projects, new Video Editing projects
  for Ad Creation.    
- 
+ &nbsp;
   
    [Investigation Video Editor](https://www.investigationve.com/)
  
    ![Investigation Video Editor]({{site.baseurl}}/images/ive1.png)
     
+&nbsp;
  
    Technologies : FFMPEG, Exiftool, Adobe Air, AS3, Adobe Flex, C libraries
- 
+ &nbsp;
     
    This year I take more work for Fixed Price - simple SEO startups, Adobe Air related things - application signing,
  packaging for mobile/desktop etc...    
  I started working on Unity projects last year and improve my knowleges day by day with HP and FP projects.
+&nbsp;
+
  Still looking forward to get some project for VR/AR development.
+ &nbsp;
  
  Also I started learning web projects. Do some desktop - web apps conversions (  Wordpress based web apps ) with React.js and Redux. 
 
 ### Video Niche Dominator Wordpress Plugin
 
 It's a web version of Video Niche Dominator create with React.js to use as SaaS. Packed with webpack to use as Wordpress plugin.
-
+&nbsp;
  
 ![VND Web1]({{site.baseurl}}/images/projects_vnd_web1.png)
-
+&nbsp;
    
    It provides the same functionality as desktop version - create unique Youtube video links, copy them and put into inbuilt indexer.
-
+&nbsp;
 
 ![VND Web2]({{site.baseurl}}/images/projects_vnd_web2.png)
-
+&nbsp;
 
    Technologies/Languages/Frameworks: JavaScript, WebPack, Html, CSS, React.js, Wordpress.
 
 
 ### Video Niche Dominator
-  
+    
 ![VND]({{site.baseurl}}/images/projects_vnd.png)
-   
+ &nbsp;
+  
    Desktop and web application ( Wordpress plugin ) for SEO. 
+ &nbsp;
   
    Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API, React.js, Redux, JavaScript, Wordpress.
 
 ### Loop Vidio
   
 ![LoopVidio]({{site.baseurl}}/images/projects_loopvidio.png)
-  
+&nbsp;
+
 SEO tool for youtube  - find video and index it! 
+&nbsp;
   
 Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, One Hour Indexer API.
-
 
 ### Gram Authority 
   
 ![GramAuthority]({{site.baseurl}}/images/projects_ga.png)
+&nbsp;
   
 Application to get statistic information about different Instagram accounts. You can put as many
 Instagram  accounts as you want and just get info.
-  
+&nbsp;  
   
 Technologies/Languages/Frameworks: Adobe Air, Adobe Flex, Instagram API.
   
-
 ### Tarrasque Games Turn Based Card Game
 
 ![HoE]({{site.baseurl}}/images/projects_2017-hoe.png)   
+&nbsp;
 
 Turn Based Card game. I worked as junior/support programmer and was responsible for
  different in game view along with server integration. There were about 4 programmers including UI
   programmers, effect programmers. We used custom UI framework created by lead developer
   and later migrated to UGUI.    
+&nbsp;
 
 Technologies/Languages/Frameworks: Unity 3D, Playfab, C#, Mono.
 
@@ -124,18 +134,20 @@ I worked for some time for big MMORPG project. Initially I went through all avai
  and created a plan and architecture for the project with detailed explanation of every aspect of
  game development ( project road map ). It was a project with multiple developers ( about 10 ).
  Unity team work, Discord collaboratoin
- 
+&nbsp; 
 
 Technologies/Languages/Frameworks: Unity 3D, UNet, MongoDB, C#, Mono.
 
 ### PasteSubmit
-http://pastesubm.it](http://pastesubm.it)
+[PasteSubmit](http://pastesubm.it)
+&nbsp; 
 
 ![Pastesubmit]({{site.baseurl}}/images/projects_2017-pastesubmit.png)   
+&nbsp; 
 
 SEO targeting application. Allows users to create different unique article, includes link generator, indexer,
 content machine API integration, PasteSubmit integration.
-
+&nbsp; 
 
 Technologies/Languages/Frameworks: Adobe Air, AS3, Instant Link Indexer, Kontent Machine 
 
@@ -143,23 +155,18 @@ Technologies/Languages/Frameworks: Adobe Air, AS3, Instant Link Indexer, Kontent
 
 ### Video Catroonizer
 
-
 ![Video Cartoonizer]({{site.baseurl}}/images/project_video_cartoonizer.png)
-
+&nbsp; 
 
 Application for adding cartoon effects to your video ( cartoonize effects ).
 It allows user to split/merge videos and export into different formats.
 Technologies/Languages/Frameworks: .NET, C#, WPF, Ffmpeg.
 
-
 ### Investigation Video Editor
-
-
 [https://investigationve.com](https://investigationve.com)
 
-
 ![Investigation Video Editor]({{site.baseurl}}/images/project_ive.png)
-
+&nbsp; 
 
 Large platform to work with different videos files. It supports different formats and codecs.
 User have ability to place videos into folders and sort/change date/time properties for every folder.
@@ -170,61 +177,55 @@ Technologies/Languages/Frameworks: AS3, Adobe Air, ANE, C++, Ant, Ffmpeg, Robotl
 ## **2015**
 
 ### Heyzap
-
-
 [https://www.heyzap.com](https://www.heyzap.com)
-
+&nbsp; 
 
 Project is a different AD networks aggregator. You can just download heyzap and setup under your app. There
 are lots of platforms which are supported at the moment. There is a dashboard where you can control your ads and
 earning.
+&nbsp; 
 
 Im working in this project as support programmer. My responsibility is to support 
 all Adobe Native Extensions which are using in the project. And also Heyzap ANE. 
 I support Flex test application as well.
+&nbsp; 
 
 Using technologies: AS3,Java, Objective-C, Ruby, Python, Adobe Air, ANE, Ant.
 
 
 ### Stak Bots
-
-
 [http://www.stakbots.com](http://www.stakbots.com)
-
+&nbsp; 
 
 This project in an active development.
 Using technologies: Adobe Air, Starling, Feathers.
 
 
 ### VideoMaker FX
-
-
 [http://www.videomakerfx.com](http://www.videomakerfx.com)
 
-
 ![Video Maker FX 2.0]({{site.baseurl}}/images/projects_videomakerfx.png)
+&nbsp; 
 
 Powerful Video Editor which allows users to create awesome videos from flash slides, sketches ( svg drawings ) and some additional elements, apply effect , add sounds, background videos/animation and then export to mp4 format to upload on any media server/integrate to site. It has a lot of features and many useful functions for people who create ads, make videos, have blogs etc...
 I worked as main programmer on start of the project. I reworked the whole project from bad codebase to new one. Initially it had messy code structure, a lot of duplication. So it was an awful project. 
 I moved it to Robotlegs framework, reworked architecture to get it more simple to code, to support to enhance. I implemented new features like sketch drawing, sketch exporting, debug logging, report console, release build with ant and many others.
+&nbsp; 
 
 Later client hired 4 additional developers to increase temp of developing, so I worked as team member.
+&nbsp; 
 
 Used technologies: AS3, Flex, Adobe Air, Ant, Intellij Idea, Git, ffmpeg.
 
 
 ## **2014**
 
-
 ### Hot Damn! Slots
-
-
 [https://apps.facebook.com/hotdamnslots//](https://apps.facebook.com/hotdamnslots/ "Hot Damn! Slots")
 
+![Hot Damn! Slots]({{ site.baseurl }}/images/projects_2_1.png)
 
-![Hot Damn! Slots]({{ site.url }}/images/projects_2_1.png)
-
-
+&nbsp;
 Flash/HTML5 based slots. It's available for Facebook, Aol and yahoo platform. Clients for html5 version are available for android and ios platform.
 Used technologies: AS3,Flex, JS, Objective-C,Java.
 
