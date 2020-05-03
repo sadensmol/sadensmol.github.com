@@ -41,6 +41,8 @@ published: true
    Technologies/Languages/Frameworks: Java.
    Dev team is completely Russian speaking.
 
+&nbsp;
+&nbsp;
 
    [Best Casino](https://apps.facebook.com/best_casino/)
 
@@ -52,6 +54,7 @@ published: true
 
    Technologies/Languages/Frameworks: Java, MySql, SmartFox Server, Flash As3, React.JS, Unity 3D, C#.
 
+&nbsp;
 &nbsp;
 
    **New project for Klever Thoughts** 
