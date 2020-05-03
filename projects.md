@@ -13,17 +13,38 @@ image:
 published: true
 ---
 
+## **2020**
+
+**Looking for the new opportunities in backend development for games/desktop app/startups**
+
+   **Tangelo Games**
+   
+   New server project with Playtrex.
+
+&nbsp;
+
+   Technologies/Languages/Frameworks: Java 9, MySql, CouchDb, SmartFox 2 Server.
+      
+
 ## **2018, 2019**
 
-**Looking for the new job opportunity mostly related to Games Development!**
 
 
-   2 years I was working as Fulltime Java Developer/React.js/Unity/C# for Tangelo Games.
+   [Presenso](https://www.presenso.com/)
+
+ML related startup purhcased by SKF.
+
+&nbsp;
+
+   Technologies/Languages/Frameworks: Java.
+   Dev team is completely Russian speaking.
 
 
    [Best Casino](https://apps.facebook.com/best_casino/)
 
    ![Best Casino Web]({{site.baseurl}}/images/bc_web.png)
+   
+   3 years I was working as Fulltime Java Developer/React.js/Unity/C# for Tangelo Games.
 
 &nbsp;
 
@@ -31,7 +52,7 @@ published: true
 
 &nbsp;
 
-   New project for Klever Thoughts. 
+   **New project for Klever Thoughts** 
    
    And we finally shipped Surveillance to USB project!
 
