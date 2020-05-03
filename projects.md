@@ -17,6 +17,10 @@ published: true
 
 **Looking for the new opportunities in backend development for games/desktop app/startups**
 
+
+&nbsp;
+&nbsp;
+
    **Tangelo Games**
    
    New server project with Playtrex.
@@ -28,11 +32,9 @@ published: true
 
 ## **2018, 2019**
 
-
-
    [Presenso](https://www.presenso.com/)
 
-ML related startup purhcased by SKF.
+   ML related startup purhcased by SKF.
 
 &nbsp;
 
