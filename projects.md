@@ -17,7 +17,6 @@ published: true
 
 **Looking for the new opportunities in backend development for games/desktop app/startups**
 
-
 &nbsp;
 &nbsp;
 
@@ -32,7 +31,7 @@ published: true
 
 ## **2018, 2019**
 
-   [Presenso](https://www.presenso.com/)
+   **[Presenso](https://www.presenso.com/)**
 
    ML related startup purhcased by SKF.
 
@@ -44,7 +43,7 @@ published: true
 &nbsp;
 &nbsp;
 
-   [Best Casino](https://apps.facebook.com/best_casino/)
+   **[Best Casino](https://apps.facebook.com/best_casino/)**
 
    ![Best Casino Web]({{site.baseurl}}/images/bc_web.png)
    
