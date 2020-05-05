@@ -21,7 +21,7 @@ owner:
   skype:          sadensmol
   fiverr:         sadensmol
   upwork:         sadensmol
-  telegram:         @sadensmol
+  telegram:         sadensmol
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -55,6 +55,8 @@ links:
   - title: LinkedIn profile
     url: https://www.linkedin.com/in/sadensmol
     external: true
+
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Moscow
