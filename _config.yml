@@ -10,18 +10,25 @@ owner:
   bio:            "Experienced Programmer"
   email:          sadensmol@gmail.com
   # Social networking links used in footer. Update and remove as you like.
+  upwork:         sadensmol
+  fiverr:         sadensmol
+  github:         sadensmol
+
+  email:          sadensmol@gmail.com
+  skype:          sadensmol
+  telegram:       sadensmol
+
+  linkedin:       sadensmol
   twitter:        sadensmol
   facebook:       sadensmol
-  github:         sadensmol
-  stackexchange:  
-  linkedin:       sadensmol
-  instagram:      
+
+
+
+  stackexchange:
+  instagram:
   flickr:         
   tumblr:
-  skype:          sadensmol
-  fiverr:         sadensmol
-  upwork:         sadensmol
-  telegram:         sadensmol
+
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
