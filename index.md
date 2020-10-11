@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to sadensmol's blog!"
+title: "CV"
 image: 
   feature: "texture-feature-01.jpg"
   credit: Texture Lovers
@@ -9,12 +9,48 @@ published: true
 ---
 
 
-Thank you for visiting my blog. It's static site based on Github and powered by Jekyll.
+## Highlight of achievements
 
-You can find information about me here : [About me]({{site.url}}/about).
+* Wrote complete backend solution for Unity based online casino in Java/Kotlin/Mysql/Redis. 
+* Created a full pack of editors/tools  for surveillance, helped to start a company from a startup. Adobe Air (frontend), C, ffmpeg, windows, osx.
 
-Me resume  : [CV]({{site.url}}/cv).
 
-My recent projects  : [Projects]({{site.url}}/projects).
+## Skills and Proficiencies
 
-Also you can read blog items. Not sure Im a good blogger, but when I have some free time I like to push some thoughts here, to my blog.
+### Languages
+
+Java, Kotlin, C, Javascript, SQL
+
+### Frameworks
+
+Spring, Spark
+
+### Databases
+
+Mysql, postgresql, redis, mongodb, cassandra
+
+### Dev tools
+
+Intellij IDEA, VS Code, Docker
+
+##Work Experience
+
+### Klever Thoughts Inc.
+
+Senior software engineer [October 2017-Present]
+* Video editor for surveillance industry in Adobe Air/C. Support for Windows and OSX platforms.
+* USB preseter. List of tools to create complete USB based presentations in Adobe Air/C. Support for Windows and OSX platforms.
+* Blur Maker. Video editor to perform different blurring operations on existing video in Adobe Air/C/ffmpeg. Support for Windows and OSX platforms.
+
+### Tangelo Games Israel
+ Lead backend developer [March 2016-July 2020]
+ * Support for existing casino gaming platform code and infrastructure. Java, Mysql, Smartfox, Jenkins.
+ * Backend for new casino gaming platform. 1000 CCU. Java, Mysql, Redis, Smartfox 2, Jenkins.
+
+## Organizations
+
+
+## Education
+
+Specialist. Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
+

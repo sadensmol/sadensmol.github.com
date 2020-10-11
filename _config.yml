@@ -1,4 +1,4 @@
-title:            About me - Denis Sazonov
+title:            Denis Sazonov
 description:      Create like a god, command like a king, work like a slave!
 disqus_shortname: sadensmol
 url:             http://sadensmol.github.io
@@ -7,7 +7,7 @@ url:             http://sadensmol.github.io
 owner:
   name:           Denis Sazonov
   avatar:         bio-photo.jpg
-  bio:            "Experienced Programmer"
+  bio:            "Java/Kotlin developer"
   email:          sadensmol@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   upwork:         sadensmol
@@ -37,32 +37,6 @@ google_analytics:
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-
-  - title: About
-    url: /about
-
-  - title: My projects
-    url: /projects
-
-  - title: CV
-    url: /cv
-    
-  - title: Upwork profile
-    url: https://www.upwork.com/users/%7E010ba56ab4bc5aba48
-    external: true
-
-  - title: Fiverr profile
-    url: https://www.fiverr.com/sadensmol
-    external: true
-
-  - title: LinkedIn profile
-    url: https://www.linkedin.com/in/sadensmol
-    external: true
-
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
