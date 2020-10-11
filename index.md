@@ -2,7 +2,7 @@
 layout: home
 image: 
   feature: "texture-feature-01.jpg"
-  credit: Texture Lovers
+  credit: Texture Loversf
   creditlink: "http://texturelovers.com"
 published: true
 ---
@@ -18,19 +18,31 @@ published: true
 
 ### Languages
 
-Java, Kotlin, C, Javascript, SQL
+* Java
+* Kotlin
+* C
+* Javascript
+* SQL
 
 ### Frameworks
 
-Spring, Spark
+* Spring 
+* Spark
+* React
 
 ### Databases
 
-Mysql, postgresql, redis, mongodb, cassandra
+* Mysql
+* postgresql
+* redis
+* mongodb
+* cassandra
 
 ### Dev tools
 
-Intellij IDEA, VS Code, Docker
+* Intellij IDEA
+* VS Code
+* Docker
 
 ##Work Experience
 
@@ -51,5 +63,5 @@ Senior software engineer [October 2017-Present]
 
 ## Education
 
-Specialist. Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
+* Specialist. Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
 
