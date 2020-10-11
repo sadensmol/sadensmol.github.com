@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "CV"
 image: 
   feature: "texture-feature-01.jpg"
   credit: Texture Lovers
