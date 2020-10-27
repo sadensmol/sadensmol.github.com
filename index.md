@@ -1,9 +1,5 @@
 ---
 layout: home
-image: 
-  feature: "texture-feature-01.jpg"
-  credit: Texture Loversf
-  creditlink: "http://texturelovers.com"
 published: true
 ---
 
