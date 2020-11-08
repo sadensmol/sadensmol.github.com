@@ -8,8 +8,9 @@ published: true
 
 ## Highlight of achievements
 
-* Wrote complete backend solution for Unity based online casino in Java/Kotlin/Mysql/Redis. 
 * Created a full pack of editors/tools  for surveillance, helped to start a company from a startup. Adobe Air (frontend), C, ffmpeg, windows, osx.
+* Wrote complete backend solution for Unity based online casino in Java/Kotlin/Mysql/Redis. 
+* Provided complete solution for dating portal, including back end, web, mobile applications. Text,video chats, profiles matching.
 
 
 ## Skills and Proficiencies
@@ -18,8 +19,8 @@ published: true
 
 * Java
 * Kotlin
+* Python
 * C
-* Javascript
 * SQL
 
 ### Frameworks
@@ -31,16 +32,17 @@ published: true
 ### Databases
 
 * Mysql
-* postgresql
-* redis
-* mongodb
-* cassandra
+* Postgresql
+* Redis
+* Mongodb
+* Cassandra
 
 ### Dev tools
 
 * Intellij IDEA
 * VS Code
 * Docker
+* Minikube
 
 ## Work Experience
 
@@ -51,10 +53,14 @@ Senior software engineer [October 2017-Present]
 * USB preseter. List of tools to create complete USB based presentations in Adobe Air/C. Support for Windows and OSX platforms.
 * Blur Maker. Video editor to perform different blurring operations on existing video in Adobe Air/C/ffmpeg. Support for Windows and OSX platforms.
 
-### Tangelo Games Israel
+### Tangelo Games, Israel
  Lead backend developer [March 2016-July 2020]
  * Support for existing casino gaming platform code and infrastructure. Java, Mysql, Smartfox, Jenkins.
  * Backend for new casino gaming platform. 1000 CCU. Java, Mysql, Redis, Smartfox 2, Jenkins.
+
+### Cristian Filipina
+Lead developer [February 2014-October 2018]
+* WEb
 
 ## Organizations
 
