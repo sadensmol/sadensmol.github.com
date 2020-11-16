@@ -39,12 +39,11 @@ published: true
 
 ### Dev tools
 
-* Intellij IDEA
-* VS Code
-* Docker
-* Minikube
+* Intellij IDEA, VS Code, VIM
+* Docker, k8s
+* AWS,GCP
 
-## Work Experience
+## Work Experience / Organisations
 
 ### Klever Thoughts Inc.
 
@@ -53,17 +52,19 @@ Senior software engineer [October 2017-Present]
 * USB preseter. List of tools to create complete USB based presentations in Adobe Air/C. Support for Windows and OSX platforms.
 * Blur Maker. Video editor to perform different blurring operations on existing video in Adobe Air/C/ffmpeg. Support for Windows and OSX platforms.
 
+### Presenso 
+Java developer [July 2019 - December 2019]
+* ELK for gas/oil industry, data collecting, preparation. Prediction modelling.
+
 ### Tangelo Games, Israel
  Lead backend developer [March 2016-July 2020]
- * Support for existing casino gaming platform code and infrastructure. Java, Mysql, Smartfox, Jenkins.
- * Backend for new casino gaming platform. 1000 CCU. Java, Mysql, Redis, Smartfox 2, Jenkins.
+ * Best Casino. Support for existing casino gaming platform code and infrastructure. Java, Mysql, Smartfox, Jenkins.
+ * New Best Casino. Backend for new casino gaming platform. up to 5000 CCU. Java, Mysql, Redis, Smartfox 2, Jenkins.
+ * Integrated BI system. New logs collection/delivering/processing workflow. Custom solution, developer
 
 ### Cristian Filipina
 Lead developer [February 2014-October 2018]
-* WEb
-
-## Organizations
-
+* Backend/Web/Desktop/mobile for dating platform. Created complete solution for scratch. Java, JS, Postgresql, Adobe Flex/Air.
 
 ## Education
 

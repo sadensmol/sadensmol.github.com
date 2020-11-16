@@ -3,4 +3,5 @@ _site
 */.DS_Store
 
 .idea
+.vscode
 sadensmol.github.com.iml
