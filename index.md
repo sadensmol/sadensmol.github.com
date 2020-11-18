@@ -44,14 +44,17 @@ published: true
 
 ### Klever Thoughts Inc.
 
-Senior software engineer [October 2017-Present]
+Data Engineer [July 2020 - Present]
+* Video recommendation system. Kotlin/Spark ML.
+
+Senior software engineer [October 2017- July 2020]
 * Customers management portal. Create/manage customers/subscriptions/software keys, stripe integration. Python.
-* SimpleVideoEd = a video editor for surveillance industry. Windows/OSX. Adobe Air/C
+* SimpleVideoEd - a video editor for surveillance industry. Windows/OSX. Adobe Air/C
 * USB presenter - a ist of tools to create complete USB based presentations. Windows/OSX. Adobe Air/C
 * Blur Maker - a video editor to perform different blurring operations on existing video. Windows/OSX. Adobe Air/C
 
 ### Presenso 
-Java developer [June 2019 - December 2019]
+Data Engineer [June 2019 - December 2019]
 * ELK for gas/oil industry, data collecting, preparation. Prediction modelling. Java, Spark.
 
 ### Tangelo Games, Israel
@@ -63,6 +66,11 @@ Lead backend developer [March 2016-July 2020]
 ### Cristian Filipina
 Lead developer [February 2014-October 2018]
 * Backend/Web/Desktop/mobile for dating platform - a complete solution for scratch. Java/JS/Postgresql/Adobe Flex/Air.
+
+## Area of interests
+
+* Distributed data processing. Big data,analysis, predictions. SMACK stack.
+* ML, AI.
 
 ## Education
 * Specialist. Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
