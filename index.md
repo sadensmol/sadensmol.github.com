@@ -7,19 +7,27 @@ published: true
 
 ## Highlight of achievements
 
-* Wrote a complete backend solution for Unity based online casino including BI part. Java/Kotlin/Python/Mysql/Redis .
-* Created a full pack of editors/tools for surveillance including customer management portal, helped to start a company from a startup. Python/Adobe Air/C/ffmpeg/windows/osx.  
-* Provided a complete solution for dating portal, including back end, web, mobile applications. Text,video chats, profiles matching. Java/Adobe Air.
+* Wrote a complete backend solution for Unity based online casino including accounts managements, payments and analytics system.   
+  Java/Kotlin/Python/Mysql/Redis.
+* Created a full pack of editors/tools for surveillance including customer management portal, and ML for image recognition. 
+  helped to start a company from a startup.   
+  Python/Adobe Air/C/ffmpeg/windows/osx.  
+* Provided a complete solution for dating portal, 
+  including back end, web, mobile applications. Text,video chats, profiles matching. 
+  Java/Adobe Air.
+* Created custom DevOp tools for CD/CI for a small company, who developed e-commerce project.   
+  Java/Bash/PostgreSQL.
 
 ## Skills and Proficiencies
 
-### Languages
+### Languages and overall experience
 
-* Java
-* Kotlin
-* Python
-* C
-* SQL
+* Java - 6 years (4 years for java 8 and 1.5 years for java 11)
+* Kotlin - 3 years
+* Python - 2 years
+* C - 4 years (mostly native functionality for different projects)
+* SQL - 6 years 
+* NoSQL - 4 years
 
 ### Frameworks
 
@@ -42,36 +50,56 @@ published: true
 
 ## Work Experience / Organisations
 
-### Klever Thoughts Inc.
+### [Talent Funnel](https://www.talent-funnel.com/)
 
-Data Engineer [July 2020 - Present]
-* Video recommendation system. Kotlin/Spark ML.
+Backend Developer, Full Time [June, 2020 - February, 2021]
+* Services for external platforms integrations
+* Integration SDKs
 
-Senior software engineer [October 2017- July 2020]
-* Customers management portal. Create/manage customers/subscriptions/software keys, stripe integration. Python.
-* SimpleVideoEd - a video editor for surveillance industry. Windows/OSX. Adobe Air/C
-* USB presenter - a ist of tools to create complete USB based presentations. Windows/OSX. Adobe Air/C
-* Blur Maker - a video editor to perform different blurring operations on existing video. Windows/OSX. Adobe Air/C
+Technologies: Spring Boot, Java 13, Kotlin, GCP 
 
-### Presenso 
-Data Engineer [June 2019 - December 2019]
-* ELK for gas/oil industry, data collecting, preparation. Prediction modelling. Java, Spark.
+### [Presenso](https://industrial-ai.skf.com/)
+Java developer,Full time [June, 2019 - December, 2019]
+* ETL for gas/oil industry, data collecting, preparation. Prediction modelling.
 
-### Tangelo Games, Israel
-Lead backend developer [March 2016-July 2020]
- * Best Casino. Support for existing casino gaming platform code and infrastructure. Java/Mysql/Smartfox/Jenkins.
- * New Best Casino. Backend for new casino gaming platform. up to 5000 CCU. Java/Mysql/Redis/Smartfox 2/Jenkins.
- * Integrated BI system - a custom solution for logs collection/delivering/processing workflow. Java/Kotlin/Python.
+Technologies: Java, Spark.
 
-### Cristian Filipina
-Lead developer [February 2014-October 2018]
-* Backend/Web/Desktop/mobile for dating platform - a complete solution for scratch. Java/JS/Postgresql/Adobe Flex/Air.
+
+### [Klever Thoughts Inc.](https://www.investigationve.com/)
+Data/AI Engineer, Part Time [January, 2020 - December, 2020]
+* Recommendation systems/image recognition for Surveillance industry.
+
+Technologies: Python/Pandas/scikit-learn.
+
+Senior software engineer, Full/Part time [October, 2017 - July, 2020]
+* Customers management portal. Create/manage customers/subscriptions/software keys, stripe integration.
+* SimpleVideoEd - a video editor for surveillance industry. 
+* USB presenter - a list of tools to create complete USB based presentations. Windows/OSX.
+* Blur Maker - a video editor to perform different blurring operations on existing video.   
+
+Technologies: Python/Java/Adobe Air/C Windows/OSX.
+
+### [Tangelo Games, Israel](https://tangelogames.com/)
+Lead backend developer, Full/Part Time [March, 2016 - July, 2020]
+* Best Casino. Support for existing casino gaming platform code and infrastructure. 
+* New Best Casino. Backend for new casino gaming platform. up to 5000 CCU.
+* Complete back office solution for payments/ accounts management.
+* Integrated analytics system - a custom solution for logs collection/delivering/processing workflow.  
+
+Technologies: Java/Mysql/Smartfox/Jenkins.
+
+### [Cristian Filipina](https://www.christianfilipina.com/)
+Lead developer [February 2014-October 2016]
+* Backend/Web/Desktop/mobile for dating platform - a complete solution for scratch.   
+
+Technologies: Java/JS/Postgresql/Adobe Flex/Air.
 
 ## Area of interests
 
-* Distributed data processing. Big data,analysis, predictions. SMACK stack.
+* Java/Kotlin/Python
+* Microservices based and distributed architectures, k8s, high load projects.
 * ML, AI.
 
 ## Education
-* Specialist. Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
+* Master Degree. IT, Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
 
