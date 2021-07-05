@@ -22,28 +22,30 @@ published: true
 
 ### Languages and overall experience
 
-* Java - 6 years (4 years for java 8 and 1.5 years for java 11)
+* Java - 6 years
 * Kotlin - 3 years
+* Javascript - 3 years
 * Python - 2 years
+* Solidity - <1 year
 * C - 4 years (mostly native functionality for different projects)
-* SQL - 6 years 
+* SQL - 5 years 
 * NoSQL - 4 years
 
 ### Frameworks
-
-* Spring 
-* Spark
+* Spring, Spring Boot, KTor
+* node.js, React.js, GraphQL, Web3
+* JUnit,Mockito, Powermock, mockk.io, Mocha 
 
 ### Databases
-
 * Mysql
 * Postgresql
 * Redis
 * Mongodb
-* Cassandra
+
+### Other technologies
+* Ethereum, Smart contracts, NFT, DAO, truffle, hardhat
 
 ### Dev tools
-
 * Intellij IDEA, VS Code, VIM
 * Docker, k8s
 * AWS,GCP
@@ -51,8 +53,8 @@ published: true
 ## Work Experience / Organisations
 
 ### [Talent Funnel](https://www.talent-funnel.com/)
-
-Backend Developer, Full Time [June, 2020 - February, 2021]
+Backend Developer, Full Time [June, 2020 - Now]  
+* ATS for HR agencies
 * Services for external platforms integrations
 * Integration SDKs
 
@@ -60,10 +62,10 @@ Technologies: Spring Boot, Java 13, Kotlin, GCP
 
 ### [Presenso](https://industrial-ai.skf.com/)
 Java developer,Full time [June, 2019 - December, 2019]
-* ETL for gas/oil industry, data collecting, preparation. Prediction modelling.
+* ETL for gas/oil industry, data collecting, preparation.   
+* Prediction modelling.
 
 Technologies: Java, Spark.
-
 
 ### [Klever Thoughts Inc.](https://www.investigationve.com/)
 Data/AI Engineer, Part Time [January, 2020 - December, 2020]
@@ -96,9 +98,10 @@ Technologies: Java/JS/Postgresql/Adobe Flex/Air.
 
 ## Area of interests
 
-* Java/Kotlin/Python
-* Microservices based and distributed architectures, k8s, high load projects.
-* ML, AI.
+* Java/Kotlin/Python/Solidity
+* Microservices based and distributed architectures, k8s, high load projects, games
+* ML, AI
+* Blockchain technologies
 
 ## Education
 * Master Degree. IT, Microcontrollers/processors development and programming. Moscow Power Engineering Institute. 
